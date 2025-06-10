@@ -1,0 +1,47 @@
+Feature,Coefficient
+APGAR 10-minute Pulse Pressure mean,0.09058417956067932
+APGAR 10-minute Systolic Blood Pressure max,0.08977719437810322
+Oxygen Saturation variability,0.039515074851145825
+Mean Blood Pressure variability Pulse Pressure mean,0.0031126341109410033
+Breathing Rate slope Breathing Rate kurtosis,0.0
+Breathing Rate variability Breathing Rate skewness,0.0
+Breathing Rate variability Breathing Rate kurtosis,0.0
+Breathing Rate variability Systolic Blood Pressure max,0.0
+Breathing Rate variability Mean Blood Pressure variability,0.0
+Breathing Rate variability Pulse Pressure mean,0.0
+Breathing Rate slope Breathing Rate skewness,0.0
+Oxygen Saturation variability Pulse Pressure mean,0.0
+Oxygen Saturation variability Mean Blood Pressure variability,0.0
+Breathing Rate slope Mean Blood Pressure variability,0.0
+Breathing Rate slope Pulse Pressure mean,0.0
+Breathing Rate skewness Breathing Rate kurtosis,0.0
+Breathing Rate skewness Systolic Blood Pressure max,0.0
+Breathing Rate skewness Mean Blood Pressure variability,0.0
+Breathing Rate skewness Pulse Pressure mean,0.0
+Breathing Rate kurtosis Systolic Blood Pressure max,0.0
+Breathing Rate kurtosis Mean Blood Pressure variability,0.0
+Breathing Rate slope Systolic Blood Pressure max,0.0
+Oxygen Saturation variability Systolic Blood Pressure max,0.0
+Systolic Blood Pressure max Mean Blood Pressure variability,0.0
+APGAR 10-minute Breathing Rate variability,0.0
+Breathing Rate variability,0.0
+Breathing Rate slope,0.0
+Breathing Rate skewness,0.0
+Breathing Rate kurtosis,0.0
+Mean Blood Pressure variability,0.0
+APGAR 10-minute Oxygen Saturation variability,0.0
+APGAR 10-minute Breathing Rate slope,0.0
+APGAR 10-minute Breathing Rate skewness,0.0
+APGAR 10-minute Mean Blood Pressure variability,0.0
+Systolic Blood Pressure max Pulse Pressure mean,0.0
+Oxygen Saturation variability Breathing Rate slope,0.0
+Oxygen Saturation variability Breathing Rate skewness,0.0
+Oxygen Saturation variability Breathing Rate kurtosis,0.0
+Breathing Rate kurtosis Pulse Pressure mean,0.0
+Breathing Rate variability Breathing Rate slope,-0.03948547243548489
+Systolic Blood Pressure max,-0.12291298722504829
+APGAR 10-minute Breathing Rate kurtosis,-0.14336518515142657
+APGAR 10-minute,-0.2853415389103985
+Pulse Pressure mean,-0.35603015580747094
+Oxygen Saturation variability Breathing Rate variability,-0.3688039436872626
+Intercept,-2.506491783353387

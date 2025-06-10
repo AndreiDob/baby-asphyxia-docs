@@ -1,0 +1,155 @@
+Feature,Coefficient
+APGAR 10-minute First window timestamp,0.47337835348877916
+APGAR 10-minute Mean Blood Pressure mean,0.3165557773848143
+Breathing Rate min Breathing Rate kurtosis,0.2015379436451162
+Pulse Pressure mean Pulse Pressure variability,0.17063005005525145
+Breathing Rate min Breathing Rate skewness,0.0953597042646602
+Breathing Rate skewness Pulse Pressure mean,0.05797869307149522
+Hear Rate skewness Pulse Pressure max,0.02690346817168248
+First window timestamp Breathing Rate skewness,0.010598626243327402
+Hear Rate skewness Hear Rate kurtosis,0.008219069233726858
+Hear Rate kurtosis Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate variability Breathing Rate kurtosis,0.0
+Breathing Rate min Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate min Systolic Blood Pressure kurtosis,0.0
+Breathing Rate min Systolic Blood Pressure mean,0.0
+First window timestamp,0.0
+Hear Rate kurtosis Breathing Rate skewness,0.0
+Breathing Rate variability Pulse Pressure max,0.0
+Breathing Rate variability Pulse Pressure mean,0.0
+Hear Rate kurtosis Breathing Rate kurtosis,0.0
+Breathing Rate variability Mean Blood Pressure mean,0.0
+Hear Rate kurtosis Systolic Blood Pressure mean,0.0
+Breathing Rate variability Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate variability Systolic Blood Pressure kurtosis,0.0
+Breathing Rate variability Systolic Blood Pressure mean,0.0
+Breathing Rate variability Breathing Rate skewness,0.0
+Hear Rate kurtosis Mean Blood Pressure mean,0.0
+Breathing Rate mean Pulse Pressure max,0.0
+Breathing Rate mean Pulse Pressure variability,0.0
+Breathing Rate mean Pulse Pressure mean,0.0
+Breathing Rate min Mean Blood Pressure mean,0.0
+Breathing Rate mean Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate mean Systolic Blood Pressure kurtosis,0.0
+Hear Rate kurtosis Systolic Blood Pressure kurtosis,0.0
+Breathing Rate mean Systolic Blood Pressure mean,0.0
+Breathing Rate mean Breathing Rate kurtosis,0.0
+Breathing Rate mean Breathing Rate skewness,0.0
+Hear Rate kurtosis Pulse Pressure max,0.0
+Hear Rate kurtosis Pulse Pressure variability,0.0
+Hear Rate kurtosis Pulse Pressure mean,0.0
+Breathing Rate mean Mean Blood Pressure mean,0.0
+APGAR 10-minute,0.0
+Breathing Rate min Pulse Pressure mean,0.0
+Diastolic Bood Pressure kurtosis Pulse Pressure mean,0.0
+Systolic Blood Pressure mean Pulse Pressure max,0.0
+Systolic Blood Pressure kurtosis Mean Blood Pressure mean,0.0
+Systolic Blood Pressure kurtosis Pulse Pressure mean,0.0
+Systolic Blood Pressure kurtosis Pulse Pressure variability,0.0
+Systolic Blood Pressure kurtosis Pulse Pressure max,0.0
+Diastolic Bood Pressure kurtosis Mean Blood Pressure mean,0.0
+Diastolic Bood Pressure kurtosis Pulse Pressure variability,0.0
+Hear Rate kurtosis Breathing Rate variability,0.0
+Diastolic Bood Pressure kurtosis Pulse Pressure max,0.0
+Mean Blood Pressure mean Pulse Pressure mean,0.0
+Mean Blood Pressure mean Pulse Pressure variability,0.0
+Mean Blood Pressure mean Pulse Pressure max,0.0
+Pulse Pressure mean Pulse Pressure max,0.0
+Pulse Pressure variability Pulse Pressure max,0.0
+Systolic Blood Pressure mean Pulse Pressure variability,0.0
+Systolic Blood Pressure mean Pulse Pressure mean,0.0
+Systolic Blood Pressure mean Diastolic Bood Pressure kurtosis,0.0
+Systolic Blood Pressure mean Systolic Blood Pressure kurtosis,0.0
+Breathing Rate kurtosis Pulse Pressure max,0.0
+Breathing Rate kurtosis Pulse Pressure variability,0.0
+Breathing Rate kurtosis Pulse Pressure mean,0.0
+Breathing Rate kurtosis Mean Blood Pressure mean,0.0
+Breathing Rate kurtosis Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate kurtosis Systolic Blood Pressure kurtosis,0.0
+Breathing Rate kurtosis Systolic Blood Pressure mean,0.0
+Breathing Rate skewness Pulse Pressure max,0.0
+Breathing Rate skewness Mean Blood Pressure mean,0.0
+Breathing Rate skewness Diastolic Bood Pressure kurtosis,0.0
+Breathing Rate skewness Systolic Blood Pressure kurtosis,0.0
+Breathing Rate skewness Systolic Blood Pressure mean,0.0
+Breathing Rate min Pulse Pressure max,0.0
+Breathing Rate min Pulse Pressure variability,0.0
+Hear Rate kurtosis Breathing Rate min,0.0
+Hear Rate kurtosis Breathing Rate mean,0.0
+First window timestamp Mean Blood Pressure mean,0.0
+First window timestamp Systolic Blood Pressure kurtosis,0.0
+First window timestamp Systolic Blood Pressure mean,0.0
+First window timestamp Breathing Rate kurtosis,0.0
+Hear Rate skewness Pulse Pressure variability,0.0
+First window timestamp Breathing Rate mean,0.0
+First window timestamp Hear Rate kurtosis,0.0
+First window timestamp Hear Rate skewness,0.0
+First window timestamp Hear Rate variability,0.0
+APGAR 10-minute Pulse Pressure max,0.0
+APGAR 10-minute Pulse Pressure variability,0.0
+APGAR 10-minute Diastolic Bood Pressure kurtosis,0.0
+APGAR 10-minute Systolic Blood Pressure kurtosis,0.0
+APGAR 10-minute Systolic Blood Pressure mean,0.0
+APGAR 10-minute Breathing Rate kurtosis,0.0
+APGAR 10-minute Breathing Rate variability,0.0
+APGAR 10-minute Breathing Rate mean,0.0
+APGAR 10-minute Hear Rate kurtosis,0.0
+APGAR 10-minute Hear Rate skewness,0.0
+APGAR 10-minute Hear Rate variability,0.0
+Pulse Pressure variability,0.0
+Mean Blood Pressure mean,0.0
+Diastolic Bood Pressure kurtosis,0.0
+Systolic Blood Pressure kurtosis,0.0
+Breathing Rate kurtosis,0.0
+Breathing Rate skewness,0.0
+Breathing Rate min,0.0
+Breathing Rate variability,0.0
+Breathing Rate mean,0.0
+Hear Rate kurtosis,0.0
+First window timestamp Diastolic Bood Pressure kurtosis,0.0
+First window timestamp Breathing Rate variability,0.0
+First window timestamp Pulse Pressure mean,0.0
+Hear Rate variability Systolic Blood Pressure mean,0.0
+Hear Rate skewness Pulse Pressure mean,0.0
+Hear Rate skewness Mean Blood Pressure mean,0.0
+Hear Rate skewness Diastolic Bood Pressure kurtosis,0.0
+Hear Rate skewness Systolic Blood Pressure kurtosis,0.0
+Hear Rate skewness Systolic Blood Pressure mean,0.0
+Hear Rate skewness Breathing Rate kurtosis,0.0
+Hear Rate skewness Breathing Rate skewness,0.0
+Hear Rate skewness Breathing Rate variability,0.0
+Hear Rate skewness Breathing Rate mean,0.0
+Hear Rate variability Pulse Pressure max,0.0
+First window timestamp Pulse Pressure variability,0.0
+Hear Rate variability Mean Blood Pressure mean,0.0
+Hear Rate variability Diastolic Bood Pressure kurtosis,0.0
+Hear Rate variability Systolic Blood Pressure kurtosis,0.0
+Hear Rate variability Pulse Pressure mean,0.0
+Hear Rate variability Breathing Rate variability,0.0
+Hear Rate variability Breathing Rate kurtosis,0.0
+Hear Rate variability Hear Rate kurtosis,0.0
+Hear Rate variability Breathing Rate mean,0.0
+Hear Rate variability Breathing Rate skewness,0.0
+Hear Rate variability Breathing Rate min,0.0
+Hear Rate variability Hear Rate skewness,0.0
+Hear Rate variability Pulse Pressure variability,-0.00121050936451722
+Breathing Rate skewness Breathing Rate kurtosis,-0.015308154172221358
+Hear Rate skewness Breathing Rate min,-0.01808161014154959
+Systolic Blood Pressure mean,-0.021404898315026337
+Systolic Blood Pressure mean Mean Blood Pressure mean,-0.02692614093179082
+APGAR 10-minute Pulse Pressure mean,-0.03690738664849901
+Pulse Pressure max,-0.038802885518353356
+Systolic Blood Pressure kurtosis Diastolic Bood Pressure kurtosis,-0.041334967392672776
+Breathing Rate variability Pulse Pressure variability,-0.041440247379876144
+APGAR 10-minute Breathing Rate skewness,-0.04198760223749542
+First window timestamp Pulse Pressure max,-0.07191491236413929
+Hear Rate variability,-0.09701137440671109
+Breathing Rate skewness Pulse Pressure variability,-0.12635690713797879
+Breathing Rate variability Breathing Rate min,-0.1943570042124195
+Breathing Rate mean Breathing Rate min,-0.19491312849204825
+Hear Rate skewness,-0.23482344603728064
+First window timestamp Breathing Rate min,-0.2372408609172809
+APGAR 10-minute Breathing Rate min,-0.32517155638267253
+Breathing Rate mean Breathing Rate variability,-0.4147083497246654
+Pulse Pressure mean,-0.7220904120922017
+Intercept,-2.538562344720124

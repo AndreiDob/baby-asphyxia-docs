@@ -1,0 +1,11 @@
+Feature,Coefficient
+Breathing Rate kurtosis,0.2378225790491836
+Oxygen Saturation variability,0.17304806490409283
+Breathing Rate variability,0.12165733008316004
+Mean Blood Pressure variability,-0.05720929935172722
+Breathing Rate slope,-0.06426284427228164
+Breathing Rate skewness,-0.07743276303716527
+Systolic Blood Pressure max,-0.27891245168377876
+APGAR 10-minute,-0.41520613898882436
+Pulse Pressure mean,-0.43933324748865105
+Intercept,-2.2882257632705985
