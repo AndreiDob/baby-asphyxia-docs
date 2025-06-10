@@ -1,0 +1,23 @@
+{
+    "random - benchmark": 4.343239881646339e-06,
+    "random - logistic_regression": 0.030960115907000145,
+    "random - logistic_regression_with_interaction": 0.01848296111313335,
+    "random - decision_tree": 0.004117923073427857,
+    "random - xgboost": 2.9537625549801034e-11,
+    "random - lstm": 8.56477001086847e-09,
+    "benchmark - logistic_regression": 0.06167732526754868,
+    "benchmark - logistic_regression_with_interaction": 0.30591289160551177,
+    "benchmark - decision_tree": 0.20588500380101882,
+    "benchmark - xgboost": 3.63622325900339e-11,
+    "benchmark - lstm": 0.03313478580981538,
+    "logistic_regression - logistic_regression_with_interaction": 0.5794164086293987,
+    "logistic_regression - decision_tree": 0.3787032644585042,
+    "logistic_regression - xgboost": 2.3660212426461576e-07,
+    "logistic_regression - lstm": 0.0017534358215044355,
+    "logistic_regression_with_interaction - decision_tree": 0.8874973851036222,
+    "logistic_regression_with_interaction - xgboost": 0.00046099183649096515,
+    "logistic_regression_with_interaction - lstm": 0.020689162211789257,
+    "decision_tree - xgboost": 5.747330720514246e-07,
+    "decision_tree - lstm": 0.0034882120014904645,
+    "xgboost - lstm": 0.05397091681655384
+}

@@ -1,0 +1,11 @@
+Feature,Coefficient
+Monitor Ademhalingsfrequentie_kurtosis,0.12974202893235073
+Monitor O2 Saturatie_var,0.05841298351716047
+Monitor Ademhalingsfrequentie_var,0.0
+Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_max,-0.17021132213398185
+Pulse_pressure_mean,-0.39888428393435044
+apgar10,-0.42230863928466617
+intercept,-2.5398482417077686

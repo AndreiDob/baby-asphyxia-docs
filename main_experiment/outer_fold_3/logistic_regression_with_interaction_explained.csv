@@ -1,0 +1,1713 @@
+Feature,Coefficient
+Monitor Hartfrequentie_min,2.91141334553005
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_var,0.8816440999078209
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_skewness,0.871137537859042
+Monitor Ademhalingsfrequentie_var Pulse_pressure_min,0.8503314841640468
+gestational_age Monitor Arteriele Bloeddruk Diastole_min,0.7627646525395657
+Monitor O2 Saturatie_mean ventilation_status,0.6975502190327029
+Monitor O2 Saturatie_var Monitor O2 Saturatie_max,0.6391720800456865
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_mean,0.6008313262282353
+gestational_age Monitor Ademhalingsfrequentie_kurtosis,0.5977838858131806
+o2_drop_count,0.5862289261204663
+Pulse_pressure_min hr_spo2_min_cross_cor,0.5723149993880358
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_min,0.5205789103335835
+Monitor Ademhalingsfrequentie_var hypothermia_status,0.505936965549944
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_skewness,0.4999417488561972
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_mean,0.4855151501825877
+Pulse_pressure_mean hypothermia_status,0.4608631006714558
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_max,0.44790752540542283
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_var,0.42590956580779715
+hr_spo2_min_cross_cor,0.4249372066092898
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_var,0.4249108415463987
+Monitor Ademhalingsfrequentie_max bradycardia_count,0.40740302897389735
+Pulse_pressure_skewness,0.4009023304469099
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_skewness,0.39924579695112694
+hr_spo2_max_cross_cor o2_drop_count,0.39241662676811423
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_var,0.3658155625178786
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_var,0.36266682542914214
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_skewness,0.36249842123052456
+Monitor Arteriele Bloeddruk Diastole_var o2_drop_count,0.35576085200588436
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_max,0.34909091695065453
+first_window_timestamp Monitor Ademhalingsfrequentie_min,0.33466013773589204
+Monitor O2 Saturatie_skewness hr_spo2_min_cross_cor,0.3277724172358662
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_skewness,0.3223221516751307
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_max,0.3109858241651052
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_min,0.30990636183943215
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_max,0.3071521822331789
+Monitor O2 Saturatie_var hr_spo2_max_cross_cor,0.2992155413381707
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_min,0.2946215311655189
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_skewness,0.273587183676147
+Monitor Ademhalingsfrequentie_kurtosis,0.2706703803946962
+Monitor O2 Saturatie_min hr_spo2_min_cross_cor,0.26831432482277817
+Pulse_pressure_kurtosis ventilation_status,0.26594883956243387
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_kurtosis,0.2553658451203717
+Monitor Arteriele Bloeddruk Mean_min hypothermia_status,0.25367452388457534
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_min,0.25076465949792476
+Monitor O2 Saturatie_kurtosis ventilation_status,0.24686375783292727
+Monitor Ademhalingsfrequentie_var hr_spo2_min_cross_cor,0.24119445349277058
+Monitor Hartfrequentie_slope Pulse_pressure_kurtosis,0.23950147442627365
+Monitor Arteriele Bloeddruk Systole_var bradycardia_count,0.23737489071717527
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_skewness,0.2355457847832712
+Monitor O2 Saturatie_mean hypothermia_status,0.2303019906979151
+Monitor Arteriele Bloeddruk Diastole_skewness,0.22168189773746663
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_slope,0.2208100366776931
+gestational_age Monitor Hartfrequentie_slope,0.20936582041596957
+Monitor Arteriele Bloeddruk Mean_var Monitor Arteriele Bloeddruk Mean_slope,0.20593479178918978
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_min,0.20569780428068532
+Monitor Hartfrequentie_var Monitor Hartfrequentie_skewness,0.19582044893288997
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_min,0.19045440588172627
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_skewness,0.1856106980740957
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_mean,0.1839054324147732
+Monitor Arteriele Bloeddruk Diastole_skewness ventilation_status,0.1813263678440053
+Monitor Arteriele Bloeddruk Diastole_min ventilation_status,0.17752807403963397
+first_window_timestamp Pulse_pressure_slope,0.16934573876739595
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_var,0.16465267540250944
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_min,0.1611508791968421
+Monitor Arteriele Bloeddruk Mean_skewness ventilation_status,0.15551383548298503
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_var,0.1553791566685567
+Pulse_pressure_slope hr_spo2_min_cross_cor,0.15446496953877142
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_min,0.15295858528139808
+gestational_age Monitor Ademhalingsfrequentie_min,0.1479572254280912
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_skewness,0.1470742588465369
+Pulse_pressure_var Pulse_pressure_min,0.13992045870658168
+first_window_timestamp Monitor Ademhalingsfrequentie_skewness,0.13796644322607046
+first_window_timestamp Monitor Ademhalingsfrequentie_max,0.13549743003524728
+first_window_timestamp Monitor Hartfrequentie_slope,0.13306516072835065
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_max,0.12646899185410282
+Monitor Hartfrequentie_max Monitor O2 Saturatie_slope,0.12441435934559567
+Pulse_pressure_min hypothermia_status,0.12296471836089601
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_var,0.12044878976146653
+Monitor O2 Saturatie_slope o2_drop_count,0.11596512310071427
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_slope,0.11414428610047098
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_skewness,0.11276997485440195
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.10673472100738003
+Pulse_pressure_slope hypothermia_status,0.08952238911792956
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_kurtosis,0.08672664148571405
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_slope,0.08664398385865761
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_skewness,0.0811762301855919
+Monitor Ademhalingsfrequentie_slope ventilation_status,0.08085287125634565
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_max,0.08082945080020312
+Monitor O2 Saturatie_mean Pulse_pressure_mean,0.07578999152682145
+Monitor Hartfrequentie_skewness Monitor Hartfrequentie_kurtosis,0.07400123475133748
+Monitor Hartfrequentie_max Pulse_pressure_min,0.07352838867123546
+Monitor O2 Saturatie_slope bradycardia_count,0.07026776901739636
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_max,0.06971300858091939
+first_window_timestamp Monitor Hartfrequentie_skewness,0.06752401462333583
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_slope,0.06735966006099874
+Monitor Arteriele Bloeddruk Systole_skewness ventilation_status,0.06530723142137371
+Monitor Hartfrequentie_slope Pulse_pressure_slope,0.06425788605400574
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Systole_skewness,0.05978670011718605
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_min,0.05718837623644976
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_skewness,0.05585179002488436
+Monitor Hartfrequentie_var Monitor O2 Saturatie_var,0.05560382458476078
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_slope,0.05083765570571819
+Monitor Hartfrequentie_skewness Pulse_pressure_mean,0.04901713363248965
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_min,0.04889429053370466
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_var,0.04855519334390508
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_mean,0.04655011803620293
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_max,0.04499183562949816
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_var,0.044428112065802716
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_skewness,0.04155508115554704
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_min,0.040314188649629074
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_mean,0.03861757316800041
+Monitor O2 Saturatie_min ventilation_status,0.03657822905290481
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.03619654641530285
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_slope,0.03478320234172484
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_slope,0.03322760093686048
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_skewness,0.0313175746019122
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_var,0.030297253051798173
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_max,0.028044263961145243
+Monitor Hartfrequentie_max Pulse_pressure_mean,0.024232324440153226
+Monitor Arteriele Bloeddruk Mean_slope hr_spo2_max_cross_cor,0.022286250707806057
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_skewness,0.022236946755523967
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_var,0.02029435653800939
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_skewness,0.018399965211911794
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_min,0.012641131572772975
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_min,0.008497836563205323
+Monitor Arteriele Bloeddruk Systole_slope hypothermia_status,0.003789561784733511
+Monitor O2 Saturatie_max hypothermia_status,0.003610294771765413
+Pulse_pressure_slope ventilation_status,0.0025179987407935017
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_min,5.1753353606009197e-05
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_var Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Systole_mean hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean ventilation_status,0.0
+Monitor Arteriele Bloeddruk Systole_mean hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_mean o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_mean tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis ventilation_status,0.0
+Monitor Ademhalingsfrequentie_kurtosis o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_kurtosis tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_kurtosis bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean bradycardia_count,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean hr_spo2_max_cross_cor,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_var hr_spo2_min_cross_cor,0.0
+Monitor Ademhalingsfrequentie_mean ventilation_status,0.0
+Monitor Arteriele Bloeddruk Systole_var hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_min hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_min ventilation_status,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_max o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_max ventilation_status,0.0
+Monitor Arteriele Bloeddruk Systole_max hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_max tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_max bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_max hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_max hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_min o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_min,0.0
+Monitor Arteriele Bloeddruk Systole_min tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_mean hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_mean hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_mean tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_var ventilation_status,0.0
+Monitor Ademhalingsfrequentie_mean hypothermia_status,0.0
+Monitor Ademhalingsfrequentie_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_var hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_var o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_var tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_min bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_min hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_min hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_slope,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_min Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_max tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max hr_spo2_max_cross_cor,0.0
+Monitor Ademhalingsfrequentie_max hr_spo2_min_cross_cor,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_slope,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_max Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Ademhalingsfrequentie_max hypothermia_status,0.0
+Monitor Ademhalingsfrequentie_max ventilation_status,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_var ventilation_status,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_min tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_max Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_max Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_max Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Ademhalingsfrequentie_min ventilation_status,0.0
+Monitor Ademhalingsfrequentie_min o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_min bradycardia_count,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_min hr_spo2_max_cross_cor,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_slope,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_max Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_var bradycardia_count,0.0
+Monitor Ademhalingsfrequentie_skewness o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_skewness ventilation_status,0.0
+Monitor Ademhalingsfrequentie_skewness hypothermia_status,0.0
+Monitor Ademhalingsfrequentie_skewness tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness bradycardia_count,0.0
+Monitor Ademhalingsfrequentie_skewness hr_spo2_min_cross_cor,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_slope,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_min,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_slope hypothermia_status,0.0
+Monitor Ademhalingsfrequentie_slope o2_drop_count,0.0
+Monitor Ademhalingsfrequentie_slope tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_slope bradycardia_count,0.0
+Monitor Ademhalingsfrequentie_slope hr_spo2_max_cross_cor,0.0
+Monitor Ademhalingsfrequentie_slope hr_spo2_min_cross_cor,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_skewness,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_slope,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_kurtosis,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_var hr_spo2_max_cross_cor,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_slope,0.0
+gestational_age,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Mean_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Mean_min o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_min tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_min bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_min hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_min hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_min Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_min Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Mean_min Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Mean_var ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_var hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_var o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_var tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_var bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_var hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_var hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_min ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Mean_slope hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_slope o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_slope tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_slope bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_slope hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_slope Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_slope Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_slope Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_max ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_max hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_max tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_max bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_max hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_max hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_var Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Mean_mean ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_mean hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_mean o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_mean tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_mean bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_mean hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_mean hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_slope ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_var,0.0
+Pulse_pressure_kurtosis hr_spo2_min_cross_cor,0.0
+Pulse_pressure_skewness hypothermia_status,0.0
+Pulse_pressure_skewness o2_drop_count,0.0
+Pulse_pressure_skewness tachycardia_count,0.0
+Pulse_pressure_skewness bradycardia_count,0.0
+Pulse_pressure_skewness hr_spo2_max_cross_cor,0.0
+Pulse_pressure_skewness hr_spo2_min_cross_cor,0.0
+Pulse_pressure_slope o2_drop_count,0.0
+Pulse_pressure_slope tachycardia_count,0.0
+Pulse_pressure_slope bradycardia_count,0.0
+Pulse_pressure_slope hr_spo2_max_cross_cor,0.0
+Pulse_pressure_slope Pulse_pressure_kurtosis,0.0
+Pulse_pressure_slope Pulse_pressure_skewness,0.0
+Pulse_pressure_max ventilation_status,0.0
+Pulse_pressure_max hypothermia_status,0.0
+Pulse_pressure_max o2_drop_count,0.0
+Pulse_pressure_max tachycardia_count,0.0
+Pulse_pressure_max bradycardia_count,0.0
+Pulse_pressure_max hr_spo2_max_cross_cor,0.0
+Pulse_pressure_max hr_spo2_min_cross_cor,0.0
+Pulse_pressure_max Pulse_pressure_kurtosis,0.0
+Pulse_pressure_max Pulse_pressure_skewness,0.0
+Pulse_pressure_skewness ventilation_status,0.0
+Pulse_pressure_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_min,0.0
+Pulse_pressure_kurtosis bradycardia_count,0.0
+hypothermia_status ventilation_status,0.0
+o2_drop_count hypothermia_status,0.0
+tachycardia_count ventilation_status,0.0
+tachycardia_count hypothermia_status,0.0
+tachycardia_count o2_drop_count,0.0
+bradycardia_count hypothermia_status,0.0
+bradycardia_count o2_drop_count,0.0
+bradycardia_count tachycardia_count,0.0
+hr_spo2_max_cross_cor ventilation_status,0.0
+hr_spo2_max_cross_cor hypothermia_status,0.0
+hr_spo2_max_cross_cor tachycardia_count,0.0
+hr_spo2_max_cross_cor bradycardia_count,0.0
+hr_spo2_min_cross_cor ventilation_status,0.0
+hr_spo2_min_cross_cor hypothermia_status,0.0
+hr_spo2_min_cross_cor o2_drop_count,0.0
+hr_spo2_min_cross_cor tachycardia_count,0.0
+hr_spo2_min_cross_cor bradycardia_count,0.0
+hr_spo2_min_cross_cor hr_spo2_max_cross_cor,0.0
+Pulse_pressure_kurtosis hypothermia_status,0.0
+Pulse_pressure_kurtosis o2_drop_count,0.0
+Pulse_pressure_kurtosis tachycardia_count,0.0
+Pulse_pressure_max Pulse_pressure_slope,0.0
+Pulse_pressure_min ventilation_status,0.0
+Pulse_pressure_min o2_drop_count,0.0
+Pulse_pressure_min tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_skewness hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Mean_skewness o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Mean_skewness tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Mean_skewness hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_skewness hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Mean_skewness Pulse_pressure_max,0.0
+Pulse_pressure_mean Pulse_pressure_var,0.0
+Pulse_pressure_mean Pulse_pressure_max,0.0
+Pulse_pressure_mean Pulse_pressure_slope,0.0
+Pulse_pressure_var hr_spo2_min_cross_cor,0.0
+Pulse_pressure_min hr_spo2_max_cross_cor,0.0
+Pulse_pressure_min Pulse_pressure_kurtosis,0.0
+Pulse_pressure_min Pulse_pressure_slope,0.0
+Pulse_pressure_var ventilation_status,0.0
+Pulse_pressure_var hypothermia_status,0.0
+Pulse_pressure_var o2_drop_count,0.0
+Pulse_pressure_var tachycardia_count,0.0
+Pulse_pressure_var bradycardia_count,0.0
+Pulse_pressure_var hr_spo2_max_cross_cor,0.0
+Pulse_pressure_var Pulse_pressure_kurtosis,0.0
+Pulse_pressure_mean Pulse_pressure_skewness,0.0
+Pulse_pressure_var Pulse_pressure_skewness,0.0
+Pulse_pressure_var Pulse_pressure_slope,0.0
+Pulse_pressure_var Pulse_pressure_max,0.0
+Pulse_pressure_mean ventilation_status,0.0
+Pulse_pressure_mean o2_drop_count,0.0
+Pulse_pressure_mean tachycardia_count,0.0
+Pulse_pressure_mean hr_spo2_max_cross_cor,0.0
+Pulse_pressure_mean hr_spo2_min_cross_cor,0.0
+Pulse_pressure_mean Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis ventilation_status,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Diastole_mean ventilation_status,0.0
+Monitor Arteriele Bloeddruk Diastole_mean hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_mean o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Diastole_mean tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_mean bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_mean hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_mean Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_slope o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_slope tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_slope bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_slope hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_slope hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_slope Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_slope Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_slope ventilation_status,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Systole_skewness hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Systole_skewness o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Systole_skewness tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_skewness bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Systole_skewness hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_skewness hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_max ventilation_status,0.0
+Monitor Arteriele Bloeddruk Diastole_max hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_max tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_max bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_max hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_max hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_slope ventilation_status,0.0
+Monitor Arteriele Bloeddruk Diastole_slope hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_slope o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Diastole_slope tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_slope bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_slope hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_slope hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_max Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Diastole_var ventilation_status,0.0
+Monitor Arteriele Bloeddruk Diastole_var hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_var tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_var bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_var hr_spo2_max_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_var hr_spo2_min_cross_cor,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_min,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_var Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_min tachycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_max Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_min hypothermia_status,0.0
+Monitor Arteriele Bloeddruk Diastole_min o2_drop_count,0.0
+Monitor Arteriele Bloeddruk Diastole_min bradycardia_count,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_slope Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_max Pulse_pressure_var,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Diastole_mean,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_skewness,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_max Pulse_pressure_max,0.0
+Monitor Hartfrequentie_max Pulse_pressure_slope,0.0
+Monitor Hartfrequentie_max Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_min,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_slope,0.0
+Monitor Hartfrequentie_slope Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_slope Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_max Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor Hartfrequentie_skewness,0.0
+Monitor Hartfrequentie_max ventilation_status,0.0
+Monitor Hartfrequentie_max hypothermia_status,0.0
+Monitor Hartfrequentie_max o2_drop_count,0.0
+Monitor Hartfrequentie_max tachycardia_count,0.0
+Monitor Hartfrequentie_max bradycardia_count,0.0
+Monitor Hartfrequentie_max hr_spo2_max_cross_cor,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_max Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_kurtosis,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_min Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_min Pulse_pressure_slope,0.0
+Monitor Hartfrequentie_min Pulse_pressure_max,0.0
+Monitor Hartfrequentie_min Pulse_pressure_min,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_min Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_max,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_min Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_min hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_min hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_min,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_max Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_var,0.0
+Monitor Hartfrequentie_min bradycardia_count,0.0
+Monitor Hartfrequentie_max Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_max Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_max Monitor Hartfrequentie_skewness,0.0
+Monitor Hartfrequentie_max Monitor Hartfrequentie_slope,0.0
+Monitor Hartfrequentie_min ventilation_status,0.0
+Monitor Hartfrequentie_min hypothermia_status,0.0
+Monitor Hartfrequentie_min o2_drop_count,0.0
+Monitor Hartfrequentie_min tachycardia_count,0.0
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_min,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_var,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+gestational_age Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_max,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_slope,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_max,0.0
+gestational_age Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_mean,0.0
+first_window_timestamp Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_slope,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_var,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_mean,0.0
+gestational_age Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_skewness hypothermia_status,0.0
+Monitor Hartfrequentie_skewness o2_drop_count,0.0
+Monitor Hartfrequentie_skewness tachycardia_count,0.0
+Monitor Hartfrequentie_skewness bradycardia_count,0.0
+Monitor Hartfrequentie_skewness hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_skewness hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_skewness,0.0
+gestational_age Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_slope,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_slope Pulse_pressure_min,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_slope,0.0
+gestational_age Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_slope Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_slope Pulse_pressure_max,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_var,0.0
+gestational_age Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_skewness,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_mean,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_mean,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_slope ventilation_status,0.0
+Monitor Hartfrequentie_slope hypothermia_status,0.0
+Monitor Hartfrequentie_slope o2_drop_count,0.0
+Monitor Hartfrequentie_slope tachycardia_count,0.0
+Monitor Hartfrequentie_slope bradycardia_count,0.0
+gestational_age Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_slope hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_slope hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_skewness,0.0
+first_window_timestamp hypothermia_status,0.0
+gestational_age tachycardia_count,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_min,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_slope,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_var,0.0
+Monitor Hartfrequentie_mean Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_skewness,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_slope,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_max,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_min,0.0
+Monitor Hartfrequentie_mean Monitor Hartfrequentie_var,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_slope,0.0
+gestational_age hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_mean Monitor Arteriele Bloeddruk Systole_slope,0.0
+first_window_timestamp ventilation_status,0.0
+first_window_timestamp o2_drop_count,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_var,0.0
+first_window_timestamp tachycardia_count,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_slope,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_max,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_min,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_skewness,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_slope,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_max,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_min,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_var,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_mean,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_kurtosis,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_slope,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_var,0.0
+first_window_timestamp Monitor Hartfrequentie_max,0.0
+first_window_timestamp Monitor O2 Saturatie_kurtosis,0.0
+first_window_timestamp Monitor O2 Saturatie_skewness,0.0
+first_window_timestamp Monitor O2 Saturatie_slope,0.0
+first_window_timestamp Monitor O2 Saturatie_max,0.0
+first_window_timestamp Monitor O2 Saturatie_var,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_mean,0.0
+first_window_timestamp Pulse_pressure_mean,0.0
+first_window_timestamp bradycardia_count,0.0
+first_window_timestamp hr_spo2_max_cross_cor,0.0
+first_window_timestamp hr_spo2_min_cross_cor,0.0
+first_window_timestamp Pulse_pressure_kurtosis,0.0
+first_window_timestamp Pulse_pressure_skewness,0.0
+first_window_timestamp Pulse_pressure_max,0.0
+first_window_timestamp Pulse_pressure_min,0.0
+first_window_timestamp Pulse_pressure_var,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_var,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_skewness,0.0
+gestational_age ventilation_status,0.0
+first_window_timestamp Monitor Hartfrequentie_mean,0.0
+first_window_timestamp Monitor Hartfrequentie_var,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_slope,0.0
+first_window_timestamp Monitor Hartfrequentie_min,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_max,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_mean,0.0
+gestational_age hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_min,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_max,0.0
+Monitor Hartfrequentie_min Monitor Hartfrequentie_skewness,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_skewness,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+gestational_age Pulse_pressure_var,0.0
+Monitor Hartfrequentie_var hypothermia_status,0.0
+Monitor Hartfrequentie_var o2_drop_count,0.0
+Monitor Hartfrequentie_var tachycardia_count,0.0
+Monitor Hartfrequentie_var bradycardia_count,0.0
+Monitor Hartfrequentie_var hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_var hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_var Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_var Pulse_pressure_skewness,0.0
+gestational_age Pulse_pressure_min,0.0
+gestational_age Pulse_pressure_max,0.0
+Monitor Hartfrequentie_var Pulse_pressure_max,0.0
+Monitor Hartfrequentie_var Pulse_pressure_min,0.0
+Monitor Hartfrequentie_var Pulse_pressure_var,0.0
+Monitor Hartfrequentie_var Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_var,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_min,0.0
+gestational_age Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_max,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_min,0.0
+Monitor Hartfrequentie_min Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_slope,0.0
+Monitor Hartfrequentie_min Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_mean ventilation_status,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_slope,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_mean,0.0
+Monitor Hartfrequentie_var Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Hartfrequentie_slope,0.0
+Monitor Hartfrequentie_var Monitor Hartfrequentie_max,0.0
+Monitor Hartfrequentie_mean hypothermia_status,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_mean o2_drop_count,0.0
+Monitor Hartfrequentie_mean tachycardia_count,0.0
+Monitor Hartfrequentie_mean bradycardia_count,0.0
+Monitor Hartfrequentie_mean hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_mean hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_mean Pulse_pressure_slope,0.0
+Monitor Hartfrequentie_var Monitor O2 Saturatie_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_var,0.0
+gestational_age Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_min,0.0
+gestational_age Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_max,0.0
+gestational_age Monitor O2 Saturatie_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor O2 Saturatie_kurtosis,0.0
+gestational_age Monitor O2 Saturatie_slope,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_min,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_var,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_skewness,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_slope Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_slope hr_spo2_min_cross_cor,0.0
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_var,0.0
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_skewness Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_slope ventilation_status,0.0
+Monitor O2 Saturatie_slope hypothermia_status,0.0
+Monitor O2 Saturatie_slope tachycardia_count,0.0
+Monitor O2 Saturatie_slope hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor O2 Saturatie_max tachycardia_count,0.0
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_var,0.0
+Monitor O2 Saturatie_slope Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_slope Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_slope Monitor O2 Saturatie_skewness,0.0
+Monitor O2 Saturatie_max ventilation_status,0.0
+Monitor O2 Saturatie_max o2_drop_count,0.0
+Monitor O2 Saturatie_max bradycardia_count,0.0
+Monitor O2 Saturatie_max Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_max hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_max hr_spo2_min_cross_cor,0.0
+Monitor O2 Saturatie_max Pulse_pressure_kurtosis,0.0
+Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_max Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_max Pulse_pressure_max,0.0
+Monitor O2 Saturatie_max Pulse_pressure_min,0.0
+Monitor O2 Saturatie_max Pulse_pressure_var,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_skewness,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_max,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_min,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_var,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_var,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_mean,0.0
+Monitor O2 Saturatie_kurtosis tachycardia_count,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_var,0.0
+Monitor O2 Saturatie_max,0.0
+Monitor O2 Saturatie_kurtosis hypothermia_status,0.0
+Monitor O2 Saturatie_kurtosis o2_drop_count,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_skewness hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_max,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_min,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_var,0.0
+Monitor O2 Saturatie_skewness Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor O2 Saturatie_skewness tachycardia_count,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_skewness bradycardia_count,0.0
+Monitor O2 Saturatie_skewness o2_drop_count,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor Ademhalingsfrequentie_var,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_min,0.0
+Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_slope,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_max,0.0
+Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_var,0.0
+Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_skewness ventilation_status,0.0
+Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor O2 Saturatie_max Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_min,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor O2 Saturatie_mean Pulse_pressure_var,0.0
+gestational_age Monitor Hartfrequentie_min,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_mean Pulse_pressure_max,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_mean Pulse_pressure_min,0.0
+Monitor O2 Saturatie_mean Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor O2 Saturatie_var Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_skewness,0.0
+gestational_age first_window_timestamp,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_min,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_var,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_var Monitor O2 Saturatie_skewness,0.0
+gestational_age Monitor Hartfrequentie_var,0.0
+Monitor O2 Saturatie_var Monitor O2 Saturatie_slope,0.0
+Monitor O2 Saturatie_var Monitor O2 Saturatie_min,0.0
+Monitor O2 Saturatie_mean o2_drop_count,0.0
+Monitor O2 Saturatie_mean tachycardia_count,0.0
+Monitor O2 Saturatie_mean bradycardia_count,0.0
+Monitor O2 Saturatie_mean hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_mean hr_spo2_min_cross_cor,0.0
+Monitor O2 Saturatie_mean Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_slope,0.0
+gestational_age Monitor O2 Saturatie_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis o2_drop_count,0.0
+gestational_age Monitor O2 Saturatie_var,0.0
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_slope,0.0
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_max,0.0
+gestational_age Monitor O2 Saturatie_min,0.0
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_max,0.0
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_min,0.0
+Monitor Hartfrequentie_kurtosis ventilation_status,0.0
+Monitor Hartfrequentie_kurtosis tachycardia_count,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_kurtosis hr_spo2_max_cross_cor,0.0
+Monitor Hartfrequentie_kurtosis hr_spo2_min_cross_cor,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_skewness,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_slope,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_max,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_min,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_var,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_var,0.0
+gestational_age Monitor Hartfrequentie_mean,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_slope,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Pulse_pressure_var,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_skewness,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_max,0.0
+Pulse_pressure_min,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Pulse_pressure_max,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_min,0.0
+Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_kurtosis,0.0
+hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_slope,0.0
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_max,0.0
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_min,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor O2 Saturatie_min Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_min hr_spo2_max_cross_cor,0.0
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_mean,0.0
+Monitor O2 Saturatie_max Monitor O2 Saturatie_kurtosis,0.0
+Monitor O2 Saturatie_max Monitor O2 Saturatie_skewness,0.0
+Monitor O2 Saturatie_max Monitor O2 Saturatie_slope,0.0
+Monitor O2 Saturatie_min hypothermia_status,0.0
+Monitor O2 Saturatie_min o2_drop_count,0.0
+Monitor O2 Saturatie_min tachycardia_count,0.0
+Monitor O2 Saturatie_min bradycardia_count,0.0
+Monitor O2 Saturatie_min Pulse_pressure_kurtosis,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_min Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_min Pulse_pressure_max,0.0
+Monitor O2 Saturatie_min Pulse_pressure_min,0.0
+Monitor O2 Saturatie_min Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_skewness,0.0
+bradycardia_count,0.0
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor O2 Saturatie_min Monitor O2 Saturatie_skewness,0.0
+Monitor O2 Saturatie_var Pulse_pressure_slope,0.0
+Monitor O2 Saturatie_var Pulse_pressure_min,0.0
+Monitor O2 Saturatie_var Pulse_pressure_var,0.0
+Monitor O2 Saturatie_var Pulse_pressure_mean,0.0
+hypothermia_status,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_skewness,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_slope,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_max,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_min,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+ventilation_status,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_slope,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_max,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_min,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_var,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_mean,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_skewness,0.0
+Monitor O2 Saturatie_var Pulse_pressure_max,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_kurtosis,0.0
+first_window_timestamp Monitor Hartfrequentie_kurtosis,0.0
+Monitor O2 Saturatie_var hr_spo2_min_cross_cor,0.0
+Monitor O2 Saturatie_min Monitor O2 Saturatie_max,0.0
+Monitor O2 Saturatie_var ventilation_status,0.0
+Monitor O2 Saturatie_var hypothermia_status,0.0
+Monitor O2 Saturatie_var o2_drop_count,0.0
+Monitor O2 Saturatie_var tachycardia_count,0.0
+tachycardia_count,0.0
+Monitor O2 Saturatie_var bradycardia_count,0.0
+Monitor O2 Saturatie_min Monitor O2 Saturatie_slope,0.0
+Monitor O2 Saturatie_var Pulse_pressure_skewness,0.0
+Monitor O2 Saturatie_var Pulse_pressure_kurtosis,0.0
+gestational_age o2_drop_count,-0.0008847763983703882
+Monitor O2 Saturatie_mean Monitor Arteriele Bloeddruk Mean_var,-0.0031239505703370522
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_max,-0.004858730263096404
+Monitor Hartfrequentie_var Monitor Hartfrequentie_min,-0.005330002827628995
+Monitor Hartfrequentie_kurtosis hypothermia_status,-0.006121218566248311
+Monitor O2 Saturatie_slope,-0.009259597759431845
+Monitor O2 Saturatie_min,-0.01416297208897401
+Monitor O2 Saturatie_kurtosis bradycardia_count,-0.016276301399956616
+Monitor Hartfrequentie_slope Pulse_pressure_var,-0.01630503467228425
+Monitor Ademhalingsfrequentie_skewness Monitor Ademhalingsfrequentie_kurtosis,-0.016595336228010057
+Monitor Arteriele Bloeddruk Mean_max o2_drop_count,-0.01659715765974934
+Monitor O2 Saturatie_slope Pulse_pressure_max,-0.016686912743700783
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_slope,-0.017788957482774783
+Monitor O2 Saturatie_slope Monitor Arteriele Bloeddruk Systole_skewness,-0.019609878494883867
+Monitor Arteriele Bloeddruk Diastole_min hr_spo2_max_cross_cor,-0.022959504667713574
+first_window_timestamp Monitor O2 Saturatie_min,-0.023619185587875027
+Monitor Ademhalingsfrequentie_min hr_spo2_min_cross_cor,-0.02533178323878768
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_slope,-0.025941910229432538
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_skewness,-0.02681038847077724
+Monitor Arteriele Bloeddruk Mean_skewness bradycardia_count,-0.027314758009021906
+Pulse_pressure_min Pulse_pressure_max,-0.03127831739213719
+Monitor Arteriele Bloeddruk Diastole_slope Pulse_pressure_max,-0.0366327217673849
+Monitor O2 Saturatie_mean Monitor O2 Saturatie_slope,-0.03746125514127864
+Monitor Hartfrequentie_min Monitor Hartfrequentie_slope,-0.038431085982908564
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_kurtosis,-0.03897974941913509
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_max,-0.03996941763629387
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Mean_min,-0.04003092209098846
+Monitor Arteriele Bloeddruk Mean_mean Monitor Arteriele Bloeddruk Mean_max,-0.04022869997344113
+Monitor Ademhalingsfrequentie_var Pulse_pressure_var,-0.04058514078217405
+Monitor Arteriele Bloeddruk Diastole_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,-0.046209490999830675
+Monitor O2 Saturatie_max Monitor Ademhalingsfrequentie_slope,-0.04783518987484163
+Pulse_pressure_slope,-0.05291479699201568
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_slope,-0.05487033786621207
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_skewness,-0.05724072872717442
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_skewness,-0.057348993759677495
+Monitor Ademhalingsfrequentie_slope,-0.05937004916423639
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_max,-0.06121609301146515
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_max,-0.07426273154011302
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_slope,-0.08049772636613535
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Diastole_skewness,-0.08587681079558028
+Monitor O2 Saturatie_skewness Monitor Arteriele Bloeddruk Systole_skewness,-0.0923355090795387
+Monitor Arteriele Bloeddruk Diastole_mean Pulse_pressure_skewness,-0.09729427807042389
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_skewness,-0.0998218552667392
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_var,-0.10036521970105314
+o2_drop_count ventilation_status,-0.10058978879646946
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Mean_min,-0.10222025342125839
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_min,-0.10259156287401289
+Monitor Arteriele Bloeddruk Systole_skewness Monitor Arteriele Bloeddruk Mean_min,-0.104740338608969
+Monitor O2 Saturatie_kurtosis Monitor Ademhalingsfrequentie_min,-0.10530161655285462
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_mean,-0.10547212941340837
+Monitor O2 Saturatie_mean Pulse_pressure_skewness,-0.1059321306876132
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_max,-0.10612914459906975
+Monitor O2 Saturatie_min Pulse_pressure_skewness,-0.10628664576810579
+gestational_age Monitor Hartfrequentie_kurtosis,-0.11000242001509038
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_slope,-0.11488468970405692
+Monitor Hartfrequentie_slope Monitor Arteriele Bloeddruk Diastole_skewness,-0.11882804380310165
+Monitor Arteriele Bloeddruk Systole_var Monitor Arteriele Bloeddruk Diastole_var,-0.11895939390655529
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Mean_skewness,-0.11965807932404451
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Diastole_min,-0.12154521101497288
+Monitor O2 Saturatie_min Pulse_pressure_mean,-0.12942644926881544
+Monitor Arteriele Bloeddruk Mean_kurtosis Pulse_pressure_max,-0.1314824908289232
+Monitor Hartfrequentie_slope,-0.13156719543182022
+Pulse_pressure_min Pulse_pressure_skewness,-0.13209254637188717
+Monitor O2 Saturatie_max Pulse_pressure_skewness,-0.13676468534365782
+Monitor Arteriele Bloeddruk Mean_min Pulse_pressure_max,-0.14209136090533242
+Monitor Hartfrequentie_min Monitor Arteriele Bloeddruk Systole_var,-0.14379268489454525
+Monitor O2 Saturatie_kurtosis Monitor Arteriele Bloeddruk Systole_min,-0.14855039739326262
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_kurtosis,-0.16517439451549631
+Monitor Hartfrequentie_max hr_spo2_min_cross_cor,-0.16623661125781755
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Systole_kurtosis,-0.16726097508291865
+gestational_age Monitor Hartfrequentie_max,-0.16772735043581377
+Monitor O2 Saturatie_min Monitor Arteriele Bloeddruk Systole_slope,-0.16839701952101024
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,-0.16880867489805632
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_slope,-0.17380629926086621
+Monitor Hartfrequentie_mean Pulse_pressure_var,-0.17483346481700882
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_slope,-0.1758475837132844
+Monitor Ademhalingsfrequentie_skewness hr_spo2_max_cross_cor,-0.17696397270113015
+Monitor Arteriele Bloeddruk Mean_max Pulse_pressure_min,-0.17893559729396782
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_kurtosis,-0.18642463211270893
+Monitor Hartfrequentie_skewness Monitor O2 Saturatie_max,-0.1882715424043957
+Monitor O2 Saturatie_skewness Monitor Ademhalingsfrequentie_slope,-0.1910849688730354
+Monitor O2 Saturatie_skewness Pulse_pressure_slope,-0.19661971177640106
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_min,-0.1994132704639265
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_kurtosis,-0.19952422670659398
+Pulse_pressure_mean bradycardia_count,-0.20306825638574244
+Monitor Ademhalingsfrequentie_var Pulse_pressure_slope,-0.20546749257205232
+gestational_age Pulse_pressure_slope,-0.2120959854048729
+Monitor Hartfrequentie_var ventilation_status,-0.21432098958701204
+Monitor Arteriele Bloeddruk Mean_var Monitor Arteriele Bloeddruk Mean_max,-0.2163353802337819
+Monitor O2 Saturatie_mean Monitor Ademhalingsfrequentie_min,-0.23415257876674056
+Monitor Hartfrequentie_kurtosis bradycardia_count,-0.23451943632213285
+Monitor Arteriele Bloeddruk Mean_skewness Monitor Arteriele Bloeddruk Mean_kurtosis,-0.24125915924600705
+Monitor Arteriele Bloeddruk Diastole_min Monitor Arteriele Bloeddruk Mean_skewness,-0.24606397900891797
+Monitor Ademhalingsfrequentie_kurtosis hypothermia_status,-0.2462670454158124
+Monitor Hartfrequentie_var Pulse_pressure_slope,-0.24658097088100048
+Monitor Arteriele Bloeddruk Diastole_slope Monitor Arteriele Bloeddruk Mean_kurtosis,-0.2532844605151979
+Monitor Arteriele Bloeddruk Diastole_min hr_spo2_min_cross_cor,-0.2667245778966168
+Monitor Arteriele Bloeddruk Mean_max,-0.2726938686725725
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_var,-0.27424064507942303
+Pulse_pressure_skewness Pulse_pressure_kurtosis,-0.27766205743261557
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_slope,-0.2796612764214723
+gestational_age bradycardia_count,-0.28795621598217197
+first_window_timestamp Monitor Ademhalingsfrequentie_mean,-0.2946541949262808
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_skewness,-0.31057275331025436
+Monitor Arteriele Bloeddruk Diastole_max o2_drop_count,-0.318164765429185
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_var,-0.32571803397212856
+Monitor Arteriele Bloeddruk Diastole_mean hr_spo2_max_cross_cor,-0.3290313515850099
+Monitor Ademhalingsfrequentie_var o2_drop_count,-0.334924446346795
+gestational_age Monitor Arteriele Bloeddruk Systole_var,-0.336291949209437
+Monitor Hartfrequentie_skewness ventilation_status,-0.3627907928885317
+Monitor Hartfrequentie_mean Monitor Ademhalingsfrequentie_skewness,-0.3642409739904117
+Monitor Arteriele Bloeddruk Systole_slope,-0.3671532031976607
+Monitor Ademhalingsfrequentie_min hypothermia_status,-0.3708806532401986
+gestational_age Monitor Hartfrequentie_skewness,-0.379831126707915
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_min,-0.38380330267620943
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_max,-0.3843927699415748
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_min,-0.39256964746041956
+Monitor Arteriele Bloeddruk Mean_max Monitor Arteriele Bloeddruk Mean_skewness,-0.3954350118260019
+Monitor Hartfrequentie_min Pulse_pressure_var,-0.422742406022683
+Monitor Arteriele Bloeddruk Diastole_min Pulse_pressure_max,-0.43239598094893233
+gestational_age Monitor Ademhalingsfrequentie_var,-0.43913016073936056
+Pulse_pressure_mean Pulse_pressure_min,-0.4414890609099779
+gestational_age hypothermia_status,-0.4597591576481598
+first_window_timestamp,-0.47092892575321216
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_var,-0.48213440664115803
+Monitor Hartfrequentie_skewness,-0.5187875082765594
+gestational_age Monitor O2 Saturatie_mean,-0.6138519031924464
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_mean,-0.6217725464332137
+Monitor Arteriele Bloeddruk Diastole_var,-0.6422278356345181
+Monitor Arteriele Bloeddruk Mean_max Monitor Arteriele Bloeddruk Mean_kurtosis,-0.7081010091097412
+Monitor Arteriele Bloeddruk Systole_mean,-0.728612173029269
+Monitor Hartfrequentie_slope Monitor Ademhalingsfrequentie_var,-0.7293305132797003
+Monitor O2 Saturatie_skewness,-0.7376234451140053
+bradycardia_count ventilation_status,-0.8134494747626028
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_mean,-0.8497262716490368
+Pulse_pressure_min bradycardia_count,-0.907644072412162
+Pulse_pressure_mean,-0.941515105184295
+Monitor Ademhalingsfrequentie_mean o2_drop_count,-0.9827561661889154
+gestational_age Pulse_pressure_mean,-1.026861020648602
+Monitor O2 Saturatie_skewness hypothermia_status,-1.1371789191861483
+Monitor Hartfrequentie_min Monitor Hartfrequentie_max,-1.2767873378403343
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_var,-1.4544341688554203
+Monitor O2 Saturatie_min Monitor Ademhalingsfrequentie_mean,-1.5603910457518464
+Monitor Hartfrequentie_max,-3.5752084565251683
+intercept,-3.983773586526383

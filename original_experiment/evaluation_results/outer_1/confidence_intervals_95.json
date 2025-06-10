@@ -1,0 +1,9 @@
+{
+    "random": "0.54 (0.35 - 0.73)",
+    "benchmark": "0.69 (0.64 - 0.75)",
+    "logistic_regression": "0.75 (0.62 - 0.88)",
+    "logistic_regression_with_interaction": "0.65 (0.43 - 0.86)",
+    "decision_tree": "0.82 (0.67 - 0.97)",
+    "xgboost": "0.87 (0.78 - 0.96)",
+    "lstm": "0.82 (0.68 - 0.96)"
+}

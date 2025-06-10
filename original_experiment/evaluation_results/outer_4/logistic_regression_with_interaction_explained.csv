@@ -1,0 +1,155 @@
+Feature,Coefficient
+apgar10 first_window_timestamp,0.47337835348877916
+apgar10 Monitor Arteriele Bloeddruk Mean_mean,0.3165557773848143
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_kurtosis,0.2015379436451162
+Pulse_pressure_mean Pulse_pressure_var,0.17063005005525145
+Monitor Ademhalingsfrequentie_min Monitor Ademhalingsfrequentie_skewness,0.0953597042646602
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_mean,0.05797869307149522
+Monitor Hartfrequentie_skewness Pulse_pressure_max,0.02690346817168248
+first_window_timestamp Monitor Ademhalingsfrequentie_skewness,0.010598626243327402
+Monitor Hartfrequentie_skewness Monitor Hartfrequentie_kurtosis,0.008219069233726858
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Systole_mean,0.0
+first_window_timestamp,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_mean Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_min Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_max,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_var,0.0
+Monitor Hartfrequentie_kurtosis Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_mean Monitor Arteriele Bloeddruk Mean_mean,0.0
+apgar10,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_var,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_mean Pulse_pressure_max,0.0
+Pulse_pressure_mean Pulse_pressure_max,0.0
+Pulse_pressure_var Pulse_pressure_max,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Systole_mean Pulse_pressure_mean,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_var,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_max,0.0
+Monitor Ademhalingsfrequentie_min Pulse_pressure_var,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_min,0.0
+Monitor Hartfrequentie_kurtosis Monitor Ademhalingsfrequentie_mean,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Mean_mean,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Systole_mean,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_var,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_mean,0.0
+first_window_timestamp Monitor Hartfrequentie_kurtosis,0.0
+first_window_timestamp Monitor Hartfrequentie_skewness,0.0
+first_window_timestamp Monitor Hartfrequentie_var,0.0
+apgar10 Pulse_pressure_max,0.0
+apgar10 Pulse_pressure_var,0.0
+apgar10 Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+apgar10 Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+apgar10 Monitor Arteriele Bloeddruk Systole_mean,0.0
+apgar10 Monitor Ademhalingsfrequentie_kurtosis,0.0
+apgar10 Monitor Ademhalingsfrequentie_var,0.0
+apgar10 Monitor Ademhalingsfrequentie_mean,0.0
+apgar10 Monitor Hartfrequentie_kurtosis,0.0
+apgar10 Monitor Hartfrequentie_skewness,0.0
+apgar10 Monitor Hartfrequentie_var,0.0
+Pulse_pressure_var,0.0
+Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_min,0.0
+Monitor Ademhalingsfrequentie_var,0.0
+Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_kurtosis,0.0
+first_window_timestamp Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+first_window_timestamp Monitor Ademhalingsfrequentie_var,0.0
+first_window_timestamp Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_skewness Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Arteriele Bloeddruk Systole_mean,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_var Pulse_pressure_max,0.0
+first_window_timestamp Pulse_pressure_var,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Mean_mean,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Diastole_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Arteriele Bloeddruk Systole_kurtosis,0.0
+Monitor Hartfrequentie_var Pulse_pressure_mean,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_var,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Hartfrequentie_kurtosis,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_mean,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Hartfrequentie_var Monitor Ademhalingsfrequentie_min,0.0
+Monitor Hartfrequentie_var Monitor Hartfrequentie_skewness,0.0
+Monitor Hartfrequentie_var Pulse_pressure_var,-0.00121050936451722
+Monitor Ademhalingsfrequentie_skewness Monitor Ademhalingsfrequentie_kurtosis,-0.015308154172221358
+Monitor Hartfrequentie_skewness Monitor Ademhalingsfrequentie_min,-0.01808161014154959
+Monitor Arteriele Bloeddruk Systole_mean,-0.021404898315026337
+Monitor Arteriele Bloeddruk Systole_mean Monitor Arteriele Bloeddruk Mean_mean,-0.02692614093179082
+apgar10 Pulse_pressure_mean,-0.03690738664849901
+Pulse_pressure_max,-0.038802885518353356
+Monitor Arteriele Bloeddruk Systole_kurtosis Monitor Arteriele Bloeddruk Diastole_kurtosis,-0.041334967392672776
+Monitor Ademhalingsfrequentie_var Pulse_pressure_var,-0.041440247379876144
+apgar10 Monitor Ademhalingsfrequentie_skewness,-0.04198760223749542
+first_window_timestamp Pulse_pressure_max,-0.07191491236413929
+Monitor Hartfrequentie_var,-0.09701137440671109
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_var,-0.12635690713797879
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_min,-0.1943570042124195
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_min,-0.19491312849204825
+Monitor Hartfrequentie_skewness,-0.23482344603728064
+first_window_timestamp Monitor Ademhalingsfrequentie_min,-0.2372408609172809
+apgar10 Monitor Ademhalingsfrequentie_min,-0.32517155638267253
+Monitor Ademhalingsfrequentie_mean Monitor Ademhalingsfrequentie_var,-0.4147083497246654
+Pulse_pressure_mean,-0.7220904120922017
+intercept,-2.538562344720124

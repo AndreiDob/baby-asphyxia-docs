@@ -1,0 +1,112 @@
+{
+    "best_window_size": 12,
+    "best_predictor_names": [
+        "apgar10",
+        "first_window_timestamp",
+        "Monitor Hartfrequentie_var",
+        "Monitor Hartfrequentie_min",
+        "Monitor Hartfrequentie_skewness",
+        "Monitor Hartfrequentie_kurtosis",
+        "Monitor Ademhalingsfrequentie_var",
+        "Monitor Ademhalingsfrequentie_min",
+        "Monitor Ademhalingsfrequentie_skewness",
+        "Monitor Ademhalingsfrequentie_kurtosis",
+        "Monitor Arteriele Bloeddruk Diastole_mean",
+        "Pulse_pressure_mean",
+        "Pulse_pressure_var",
+        "Pulse_pressure_max",
+        "hr_spo2_max_cross_cor"
+    ],
+    "window_predictors_performances": [
+        {
+            "window_size": 6,
+            "predictors": [
+                "gestational_age",
+                "apgar5",
+                "apgar10",
+                "first_window_timestamp",
+                "Monitor Hartfrequentie_mean",
+                "Monitor Hartfrequentie_var",
+                "Monitor Hartfrequentie_min",
+                "Monitor Hartfrequentie_max",
+                "Monitor Hartfrequentie_skewness",
+                "Monitor Hartfrequentie_kurtosis",
+                "Monitor O2 Saturatie_mean",
+                "Monitor O2 Saturatie_min",
+                "Monitor O2 Saturatie_skewness",
+                "Monitor O2 Saturatie_kurtosis",
+                "Monitor Ademhalingsfrequentie_mean",
+                "Monitor Ademhalingsfrequentie_var",
+                "Monitor Ademhalingsfrequentie_min",
+                "Monitor Ademhalingsfrequentie_max",
+                "Monitor Ademhalingsfrequentie_slope",
+                "Monitor Ademhalingsfrequentie_skewness",
+                "Monitor Ademhalingsfrequentie_kurtosis",
+                "Monitor Arteriele Bloeddruk Systole_mean",
+                "Monitor Arteriele Bloeddruk Systole_var",
+                "Monitor Arteriele Bloeddruk Systole_max",
+                "Monitor Arteriele Bloeddruk Diastole_mean",
+                "Monitor Arteriele Bloeddruk Diastole_skewness",
+                "Monitor Arteriele Bloeddruk Diastole_kurtosis",
+                "Monitor Arteriele Bloeddruk Mean_mean",
+                "Monitor Arteriele Bloeddruk Mean_skewness",
+                "Pulse_pressure_mean",
+                "Pulse_pressure_var",
+                "Pulse_pressure_max",
+                "Pulse_pressure_skewness",
+                "Pulse_pressure_kurtosis",
+                "hr_spo2_min_cross_cor",
+                "hr_spo2_max_cross_cor"
+            ],
+            "performance": 0.6150799951772822
+        },
+        {
+            "window_size": 12,
+            "predictors": [
+                "apgar10",
+                "first_window_timestamp",
+                "Monitor Hartfrequentie_var",
+                "Monitor Hartfrequentie_min",
+                "Monitor Hartfrequentie_skewness",
+                "Monitor Hartfrequentie_kurtosis",
+                "Monitor Ademhalingsfrequentie_var",
+                "Monitor Ademhalingsfrequentie_min",
+                "Monitor Ademhalingsfrequentie_skewness",
+                "Monitor Ademhalingsfrequentie_kurtosis",
+                "Monitor Arteriele Bloeddruk Diastole_mean",
+                "Pulse_pressure_mean",
+                "Pulse_pressure_var",
+                "Pulse_pressure_max",
+                "hr_spo2_max_cross_cor"
+            ],
+            "performance": 0.6894294760800176
+        },
+        {
+            "window_size": 18,
+            "predictors": [
+                "apgar10",
+                "Monitor Hartfrequentie_skewness",
+                "Monitor Hartfrequentie_kurtosis",
+                "Monitor O2 Saturatie_skewness",
+                "Monitor Ademhalingsfrequentie_skewness",
+                "Monitor Ademhalingsfrequentie_kurtosis",
+                "Monitor Arteriele Bloeddruk Diastole_mean",
+                "Pulse_pressure_mean",
+                "Pulse_pressure_var"
+            ],
+            "performance": 0.6641635762016945
+        },
+        {
+            "window_size": 24,
+            "predictors": [
+                "apgar10",
+                "Monitor Hartfrequentie_kurtosis",
+                "Monitor Ademhalingsfrequentie_var",
+                "Monitor Ademhalingsfrequentie_skewness",
+                "Monitor Ademhalingsfrequentie_kurtosis",
+                "Pulse_pressure_var"
+            ],
+            "performance": 0.5794324380044434
+        }
+    ]
+}

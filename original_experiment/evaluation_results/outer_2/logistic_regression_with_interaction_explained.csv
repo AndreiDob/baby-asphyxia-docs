@@ -1,0 +1,47 @@
+Feature,Coefficient
+apgar10 Pulse_pressure_mean,0.09058417956067932
+apgar10 Monitor Arteriele Bloeddruk Systole_max,0.08977719437810322
+Monitor O2 Saturatie_var,0.039515074851145825
+Monitor Arteriele Bloeddruk Mean_var Pulse_pressure_mean,0.0031126341109410033
+Monitor Ademhalingsfrequentie_slope Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_var Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor O2 Saturatie_var Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_slope Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_skewness Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_skewness Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Ademhalingsfrequentie_kurtosis Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Ademhalingsfrequentie_slope Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor O2 Saturatie_var Monitor Arteriele Bloeddruk Systole_max,0.0
+Monitor Arteriele Bloeddruk Systole_max Monitor Arteriele Bloeddruk Mean_var,0.0
+apgar10 Monitor Ademhalingsfrequentie_var,0.0
+Monitor Ademhalingsfrequentie_var,0.0
+Monitor Ademhalingsfrequentie_slope,0.0
+Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Arteriele Bloeddruk Mean_var,0.0
+apgar10 Monitor O2 Saturatie_var,0.0
+apgar10 Monitor Ademhalingsfrequentie_slope,0.0
+apgar10 Monitor Ademhalingsfrequentie_skewness,0.0
+apgar10 Monitor Arteriele Bloeddruk Mean_var,0.0
+Monitor Arteriele Bloeddruk Systole_max Pulse_pressure_mean,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_slope,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_skewness,0.0
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_kurtosis,0.0
+Monitor Ademhalingsfrequentie_kurtosis Pulse_pressure_mean,0.0
+Monitor Ademhalingsfrequentie_var Monitor Ademhalingsfrequentie_slope,-0.03948547243548489
+Monitor Arteriele Bloeddruk Systole_max,-0.12291298722504829
+apgar10 Monitor Ademhalingsfrequentie_kurtosis,-0.14336518515142657
+apgar10,-0.2853415389103985
+Pulse_pressure_mean,-0.35603015580747094
+Monitor O2 Saturatie_var Monitor Ademhalingsfrequentie_var,-0.3688039436872626
+intercept,-2.506491783353387

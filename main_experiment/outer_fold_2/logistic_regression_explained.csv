@@ -1,0 +1,60 @@
+Feature,Coefficient
+Monitor Arteriele Bloeddruk Diastole_slope,6.385624369268994
+Monitor Arteriele Bloeddruk Mean_mean,5.659306912610013
+Pulse_pressure_slope,3.75971865196469
+Monitor Hartfrequentie_mean,3.31841131164885
+Monitor Hartfrequentie_min,1.4913306588645643
+Monitor Arteriele Bloeddruk Systole_max,1.162248546224268
+Monitor Arteriele Bloeddruk Systole_var,0.8752284052664592
+Monitor Hartfrequentie_var,0.8137071105674781
+Monitor O2 Saturatie_mean,0.504220500907072
+Monitor O2 Saturatie_var,0.40376747873025637
+Monitor Arteriele Bloeddruk Mean_skewness,0.36361583023437
+Monitor Arteriele Bloeddruk Diastole_skewness,0.3498576567586987
+hypothermia_status,0.32089921514913794
+Monitor Hartfrequentie_kurtosis,0.3119444924783937
+Pulse_pressure_skewness,0.23520730876258805
+Monitor Ademhalingsfrequentie_var,0.2305963955812468
+Monitor Ademhalingsfrequentie_kurtosis,0.18676212643866624
+Monitor Hartfrequentie_slope,0.17588407391638905
+Monitor Ademhalingsfrequentie_min,0.1541444932827673
+Pulse_pressure_min,0.14977103062927175
+Pulse_pressure_kurtosis,0.135814727801759
+Monitor O2 Saturatie_skewness,0.12189701643024603
+gestational_age,0.09616131118831804
+Monitor Arteriele Bloeddruk Diastole_kurtosis,0.09603377050374254
+ventilation_status,0.040261507683303416
+Monitor O2 Saturatie_slope,0.03917509941028747
+bradycardia_count,0.01523294536823155
+Monitor Arteriele Bloeddruk Systole_min,0.007182764426769407
+hr_spo2_min_cross_cor,0.0006419449126217455
+Monitor Ademhalingsfrequentie_slope,-0.009507225445483896
+Monitor Ademhalingsfrequentie_mean,-0.0529009884312298
+Monitor O2 Saturatie_kurtosis,-0.07190322238838807
+Monitor Ademhalingsfrequentie_skewness,-0.08195599610571966
+Monitor Arteriele Bloeddruk Systole_kurtosis,-0.08317978730291752
+first_window_timestamp,-0.10878224868746818
+Monitor Hartfrequentie_skewness,-0.12805946949036315
+Monitor O2 Saturatie_max,-0.1402826380151303
+tachycardia_count,-0.15456247786362345
+Monitor Arteriele Bloeddruk Mean_min,-0.16196324030353623
+Monitor Arteriele Bloeddruk Mean_kurtosis,-0.19308471875340144
+Pulse_pressure_var,-0.21561516448976237
+o2_drop_count,-0.23888038499602077
+Monitor Arteriele Bloeddruk Diastole_min,-0.2611774452474834
+Monitor O2 Saturatie_min,-0.3504286738364409
+Monitor Arteriele Bloeddruk Mean_slope,-0.35689490315368666
+Monitor Ademhalingsfrequentie_max,-0.3942669432171347
+Monitor Arteriele Bloeddruk Systole_skewness,-0.4118857867769039
+Monitor Arteriele Bloeddruk Mean_var,-0.4736066951022927
+Pulse_pressure_max,-0.4975005083978479
+Monitor Arteriele Bloeddruk Mean_max,-0.5610577155090619
+Monitor Arteriele Bloeddruk Diastole_max,-0.7477665650182367
+hr_spo2_max_cross_cor,-0.8136161041579866
+Pulse_pressure_mean,-1.1675603056139319
+Monitor Arteriele Bloeddruk Diastole_var,-1.3230371444818643
+Monitor Arteriele Bloeddruk Systole_mean,-2.420658036187967
+Monitor Arteriele Bloeddruk Diastole_mean,-2.4220473520981463
+intercept,-3.2957178965374037
+Monitor Hartfrequentie_max,-3.8614903175054915
+Monitor Arteriele Bloeddruk Systole_slope,-8.150594601678318

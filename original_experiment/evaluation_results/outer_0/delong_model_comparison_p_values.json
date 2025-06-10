@@ -1,0 +1,23 @@
+{
+    "random - benchmark": 0.009919194603454142,
+    "random - logistic_regression": 0.16415398133835982,
+    "random - logistic_regression_with_interaction": 0.000585960536398604,
+    "random - decision_tree": 0.04756702529533586,
+    "random - xgboost": 8.533078501384935e-05,
+    "random - lstm": 6.762408619665492e-05,
+    "benchmark - logistic_regression": 0.4175959417622963,
+    "benchmark - logistic_regression_with_interaction": 0.0008174056273695082,
+    "benchmark - decision_tree": 0.9141908684250407,
+    "benchmark - xgboost": 0.0015110125439544402,
+    "benchmark - lstm": 0.0001523538507550048,
+    "logistic_regression - logistic_regression_with_interaction": 0.012568350736497962,
+    "logistic_regression - decision_tree": 0.4260892457440809,
+    "logistic_regression - xgboost": 0.00434179990223974,
+    "logistic_regression - lstm": 0.0035285435138230166,
+    "logistic_regression_with_interaction - decision_tree": 0.02762120740162491,
+    "logistic_regression_with_interaction - xgboost": 0.7825192066151009,
+    "logistic_regression_with_interaction - lstm": 0.6441505215848731,
+    "decision_tree - xgboost": 0.019136385638176514,
+    "decision_tree - lstm": 0.012782490003169299,
+    "xgboost - lstm": 0.8719053902532963
+}
