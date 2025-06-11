@@ -1,17 +1,17 @@
 Feature,Coefficient
-Hear Rate min,1.6370185147397065
+Heart Rate min,1.6370185147397065
 Breathing Rate kurtosis,0.5605146002738811
 Diastolic Bood Pressure mean,0.4100998071384323
 Breathing Rate variability,0.1350903830871669
 Pulse Pressure max,0.1227261606212378
 Breathing Rate skewness,0.07741703624739435
-Hear Rate kurtosis,0.06510862095659836
+Heart Rate kurtosis,0.06510862095659836
 First window timestamp,-0.23642042301445126
 Breathing Rate min,-0.3439527753778638
-Hear Rate variability,-0.3559552578228341
+Heart Rate variability,-0.3559552578228341
 Pulse Pressure variability,-0.4051579645438011
 APGAR 10-minute,-0.5801205282226548
 Pulse Pressure mean,-0.8544769519517975
-Hear Rate skewness,-0.930011909057188
+Heart Rate skewness,-0.930011909057188
 Heart Rate - Oxygen sat. max. cross-correlation,-1.1327081002792259
 Intercept,-2.9975898670780214

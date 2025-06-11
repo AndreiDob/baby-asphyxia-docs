@@ -1,5 +1,5 @@
 Feature,Coefficient
-Hear Rate min,1.4031518058590295
+Heart Rate min,1.4031518058590295
 Oxygen Saturation mean Ventilation status,0.34475864713047555
 Breathing Rate mean Diastolic Bood Pressure min,0.23007771472530636
 Systolic Blood Pressure max Hypothermia status,0.22663469511514245
@@ -11,7 +11,7 @@ Oxygen Saturation mean Oxygen Saturation skewness,0.19531136789620612
 Pulse Pressure min Heart Rate - Oxygen sat. min. cross-correlation,0.1947010553586846
 Mean Blood Pressure max Hypothermia status,0.19099194249515744
 Breathing Rate skewness Pulse Pressure min,0.17463905229708873
-Hear Rate max Pulse Pressure mean,0.16738372315310043
+Heart Rate max Pulse Pressure mean,0.16738372315310043
 Systolic Blood Pressure min Diastolic Bood Pressure min,0.15663607800558133
 Breathing Rate min Pulse Pressure skewness,0.15430283974463518
 Gestational age Oxygen Saturation skewness,0.13047583786053146
@@ -22,45 +22,45 @@ Oxygen Saturation skewness Diastolic Bood Pressure mean,0.09961009342478563
 Pulse Pressure skewness Bradycardia count,0.09773656422953722
 Oxygen Saturation max Diastolic Bood Pressure min,0.09745743089623866
 Gestational age Breathing Rate kurtosis,0.0950018737061437
-Hear Rate kurtosis Mean Blood Pressure max,0.09380527277535736
-Hear Rate variability Diastolic Bood Pressure slope,0.09116145743846511
+Heart Rate kurtosis Mean Blood Pressure max,0.09380527277535736
+Heart Rate variability Diastolic Bood Pressure slope,0.09116145743846511
 Pulse Pressure variability Pulse Pressure min,0.08951543220394056
-Hear Rate kurtosis Mean Blood Pressure kurtosis,0.07838278114366207
+Heart Rate kurtosis Mean Blood Pressure kurtosis,0.07838278114366207
 Breathing Rate min Breathing Rate kurtosis,0.07785807685562539
-Hear Rate skewness Oxygen Saturation skewness,0.07366326922110936
-Hear Rate slope Mean Blood Pressure max,0.07246639467071536
-Hear Rate kurtosis Oxygen Saturation slope,0.06487829810592288
-Hear Rate skewness Systolic Blood Pressure variability,0.06038565816112778
-Hear Rate slope Pulse Pressure slope,0.060174483019928955
+Heart Rate skewness Oxygen Saturation skewness,0.07366326922110936
+Heart Rate slope Mean Blood Pressure max,0.07246639467071536
+Heart Rate kurtosis Oxygen Saturation slope,0.06487829810592288
+Heart Rate skewness Systolic Blood Pressure variability,0.06038565816112778
+Heart Rate slope Pulse Pressure slope,0.060174483019928955
 Diastolic Bood Pressure mean Diastolic Bood Pressure min,0.05599646274746569
-Hear Rate variability Oxygen Saturation variability,0.05406464453502581
+Heart Rate variability Oxygen Saturation variability,0.05406464453502581
 Breathing Rate mean Mean Blood Pressure max,0.04877931230503549
 Breathing Rate mean Mean Blood Pressure kurtosis,0.04725662033331039
-Hear Rate variability Breathing Rate kurtosis,0.04401250917306421
+Heart Rate variability Breathing Rate kurtosis,0.04401250917306421
 Pulse Pressure mean Oxygen Saturation drops,0.037376586367538545
-Hear Rate slope Breathing Rate min,0.03726277556984082
+Heart Rate slope Breathing Rate min,0.03726277556984082
 Systolic Blood Pressure skewness Pulse Pressure skewness,0.03641859629394952
 Gestational age Systolic Blood Pressure min,0.03140378789076428
-Hear Rate kurtosis Oxygen Saturation variability,0.03135331740322923
+Heart Rate kurtosis Oxygen Saturation variability,0.03135331740322923
 Mean Blood Pressure variability Pulse Pressure skewness,0.03076254322776566
 Oxygen Saturation min Diastolic Bood Pressure max,0.030121442008510045
-Hear Rate variability Mean Blood Pressure max,0.02802066935029241
+Heart Rate variability Mean Blood Pressure max,0.02802066935029241
 Gestational age Hypothermia status,0.027965109652176374
 Oxygen Saturation kurtosis Breathing Rate variability,0.025446432819102034
 Oxygen Saturation variability Oxygen Saturation slope,0.019340396112921696
-Hear Rate skewness Mean Blood Pressure kurtosis,0.016406645773256002
-Hear Rate variability Diastolic Bood Pressure variability,0.01405271658444545
+Heart Rate skewness Mean Blood Pressure kurtosis,0.016406645773256002
+Heart Rate variability Diastolic Bood Pressure variability,0.01405271658444545
 Breathing Rate slope Mean Blood Pressure max,0.01294220173836972
-Hear Rate skewness Hear Rate kurtosis,0.012255426432805916
-Hear Rate skewness Pulse Pressure variability,0.012130082418034954
+Heart Rate skewness Heart Rate kurtosis,0.012255426432805916
+Heart Rate skewness Pulse Pressure variability,0.012130082418034954
 Oxygen Saturation variability Diastolic Bood Pressure slope,0.011773556734734044
 Systolic Blood Pressure variability Bradycardia count,0.005556413353127834
-Hear Rate variability Hear Rate slope,0.0048287059346811875
+Heart Rate variability Heart Rate slope,0.0048287059346811875
 Mean Blood Pressure min Hypothermia status,0.004220354645688958
 Oxygen Saturation mean Breathing Rate slope,0.0038250486497599483
 Oxygen Saturation mean Oxygen Saturation drops,0.0037616386949783595
 Breathing Rate kurtosis Mean Blood Pressure max,0.003739740791520066
-Hear Rate variability Mean Blood Pressure variability,0.0033088061191553736
+Heart Rate variability Mean Blood Pressure variability,0.0033088061191553736
 Systolic Blood Pressure skewness Diastolic Bood Pressure skewness,0.002683560914942631
 Oxygen Saturation slope Diastolic Bood Pressure variability,0.0021825036071117816
 Pulse Pressure skewness Hypothermia status,0.001906718049485411
@@ -851,208 +851,208 @@ Diastolic Bood Pressure min Oxygen Saturation drops,0.0
 Diastolic Bood Pressure min Tachycardia count,0.0
 Breathing Rate mean Breathing Rate slope,0.0
 Breathing Rate mean Systolic Blood Pressure mean,0.0
-Hear Rate slope Pulse Pressure min,0.0
-Hear Rate min Systolic Blood Pressure max,0.0
-Hear Rate min Diastolic Bood Pressure kurtosis,0.0
-Hear Rate min Diastolic Bood Pressure skewness,0.0
-Hear Rate min Diastolic Bood Pressure slope,0.0
-Hear Rate min Diastolic Bood Pressure max,0.0
-Hear Rate min Diastolic Bood Pressure min,0.0
-Hear Rate min Diastolic Bood Pressure variability,0.0
-Hear Rate min Diastolic Bood Pressure mean,0.0
-Hear Rate min Systolic Blood Pressure kurtosis,0.0
-Hear Rate min Systolic Blood Pressure skewness,0.0
-Hear Rate min Systolic Blood Pressure slope,0.0
-Hear Rate min Systolic Blood Pressure min,0.0
-Hear Rate skewness Systolic Blood Pressure kurtosis,0.0
-Hear Rate min Systolic Blood Pressure mean,0.0
-Hear Rate min Breathing Rate kurtosis,0.0
-Hear Rate min Breathing Rate skewness,0.0
-Hear Rate min Breathing Rate slope,0.0
-Hear Rate min Breathing Rate max,0.0
-Hear Rate min Breathing Rate min,0.0
-Hear Rate min Breathing Rate variability,0.0
-Hear Rate min Breathing Rate mean,0.0
-Hear Rate min Oxygen Saturation kurtosis,0.0
-Hear Rate min Oxygen Saturation slope,0.0
-Hear Rate min Mean Blood Pressure mean,0.0
-Hear Rate min Mean Blood Pressure variability,0.0
-Hear Rate min Mean Blood Pressure min,0.0
-Hear Rate min Mean Blood Pressure slope,0.0
-Hear Rate max Oxygen Saturation slope,0.0
-Hear Rate max Oxygen Saturation max,0.0
-Hear Rate max Oxygen Saturation min,0.0
-Hear Rate max Oxygen Saturation variability,0.0
-Hear Rate max Oxygen Saturation mean,0.0
-Hear Rate max Hear Rate kurtosis,0.0
-Hear Rate max Hear Rate skewness,0.0
-Hear Rate max Hear Rate slope,0.0
-Hear Rate min Ventilation status,0.0
-Hear Rate min Oxygen Saturation drops,0.0
-Hear Rate min Tachycardia count,0.0
-Hear Rate min Bradycardia count,0.0
-Hear Rate min Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate min Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate min Pulse Pressure kurtosis,0.0
-Hear Rate min Pulse Pressure skewness,0.0
-Hear Rate min Pulse Pressure slope,0.0
-Hear Rate min Pulse Pressure min,0.0
-Hear Rate min Pulse Pressure mean,0.0
-Hear Rate min Mean Blood Pressure kurtosis,0.0
-Hear Rate min Mean Blood Pressure skewness,0.0
-Hear Rate min Oxygen Saturation max,0.0
-Hear Rate min Oxygen Saturation variability,0.0
-Hear Rate min Oxygen Saturation mean,0.0
-Hear Rate variability Diastolic Bood Pressure max,0.0
-Hear Rate variability Diastolic Bood Pressure mean,0.0
-Hear Rate variability Systolic Blood Pressure kurtosis,0.0
-Hear Rate variability Systolic Blood Pressure skewness,0.0
-Hear Rate variability Systolic Blood Pressure slope,0.0
-Hear Rate variability Systolic Blood Pressure max,0.0
-Hear Rate variability Systolic Blood Pressure min,0.0
-Hear Rate variability Systolic Blood Pressure variability,0.0
-Hear Rate variability Systolic Blood Pressure mean,0.0
-Hear Rate variability Breathing Rate skewness,0.0
-Hear Rate variability Breathing Rate slope,0.0
-Hear Rate variability Breathing Rate max,0.0
-Hear Rate variability Breathing Rate min,0.0
-Hear Rate variability Breathing Rate variability,0.0
-Hear Rate variability Breathing Rate mean,0.0
-Hear Rate variability Oxygen Saturation kurtosis,0.0
-Hear Rate variability Oxygen Saturation skewness,0.0
-Hear Rate variability Oxygen Saturation slope,0.0
-Hear Rate variability Oxygen Saturation max,0.0
-Hear Rate variability Oxygen Saturation min,0.0
-Hear Rate variability Oxygen Saturation mean,0.0
-Hear Rate variability Hear Rate kurtosis,0.0
-Hear Rate variability Diastolic Bood Pressure min,0.0
-Hear Rate variability Diastolic Bood Pressure skewness,0.0
-Hear Rate min Hear Rate kurtosis,0.0
-Hear Rate variability Diastolic Bood Pressure kurtosis,0.0
-Hear Rate min Hear Rate skewness,0.0
-Hear Rate min Hear Rate slope,0.0
-Hear Rate min Hear Rate max,0.0
-Hear Rate variability Hypothermia status,0.0
-Hear Rate variability Oxygen Saturation drops,0.0
-Hear Rate variability Tachycardia count,0.0
-Hear Rate variability Bradycardia count,0.0
-Hear Rate variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate variability Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate variability Pulse Pressure kurtosis,0.0
-Hear Rate variability Pulse Pressure skewness,0.0
-Hear Rate variability Pulse Pressure slope,0.0
-Hear Rate variability Pulse Pressure max,0.0
-Hear Rate variability Pulse Pressure min,0.0
-Hear Rate variability Pulse Pressure variability,0.0
-Hear Rate variability Pulse Pressure mean,0.0
-Hear Rate variability Mean Blood Pressure kurtosis,0.0
-Hear Rate variability Mean Blood Pressure skewness,0.0
-Hear Rate variability Mean Blood Pressure slope,0.0
-Hear Rate variability Mean Blood Pressure min,0.0
-Hear Rate variability Mean Blood Pressure mean,0.0
-Hear Rate max Oxygen Saturation skewness,0.0
-Hear Rate max Oxygen Saturation kurtosis,0.0
-Hear Rate max Breathing Rate mean,0.0
-Hear Rate slope Pulse Pressure skewness,0.0
-Hear Rate slope Pulse Pressure variability,0.0
-Hear Rate slope Mean Blood Pressure kurtosis,0.0
-Hear Rate slope Mean Blood Pressure skewness,0.0
-Hear Rate slope Mean Blood Pressure slope,0.0
-Hear Rate slope Mean Blood Pressure min,0.0
-Hear Rate slope Mean Blood Pressure variability,0.0
-Hear Rate slope Mean Blood Pressure mean,0.0
-Hear Rate slope Diastolic Bood Pressure kurtosis,0.0
-Hear Rate slope Diastolic Bood Pressure skewness,0.0
-Hear Rate slope Diastolic Bood Pressure slope,0.0
-Hear Rate slope Diastolic Bood Pressure max,0.0
-Hear Rate slope Diastolic Bood Pressure min,0.0
-Hear Rate slope Diastolic Bood Pressure variability,0.0
-Hear Rate slope Diastolic Bood Pressure mean,0.0
-Hear Rate slope Systolic Blood Pressure kurtosis,0.0
-Hear Rate slope Systolic Blood Pressure skewness,0.0
-Hear Rate slope Systolic Blood Pressure slope,0.0
-Hear Rate slope Systolic Blood Pressure max,0.0
-Hear Rate slope Systolic Blood Pressure variability,0.0
-Hear Rate slope Systolic Blood Pressure mean,0.0
-Hear Rate slope Breathing Rate skewness,0.0
-Hear Rate slope Pulse Pressure max,0.0
-Hear Rate slope,0.0
-Hear Rate slope Breathing Rate max,0.0
-Hear Rate slope Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate skewness Systolic Blood Pressure slope,0.0
-Hear Rate skewness Systolic Blood Pressure max,0.0
-Hear Rate skewness Systolic Blood Pressure min,0.0
-Hear Rate skewness Systolic Blood Pressure mean,0.0
-Hear Rate skewness Breathing Rate kurtosis,0.0
-Hear Rate skewness Breathing Rate skewness,0.0
-Hear Rate skewness Breathing Rate slope,0.0
-Hear Rate skewness Breathing Rate max,0.0
-Hear Rate skewness Breathing Rate variability,0.0
-Hear Rate skewness Breathing Rate mean,0.0
-Hear Rate skewness Oxygen Saturation kurtosis,0.0
-Hear Rate skewness Oxygen Saturation slope,0.0
-Hear Rate skewness Oxygen Saturation max,0.0
-Hear Rate skewness Oxygen Saturation min,0.0
-Hear Rate skewness Oxygen Saturation variability,0.0
-Hear Rate slope Ventilation status,0.0
-Hear Rate slope Hypothermia status,0.0
-Hear Rate slope Oxygen Saturation drops,0.0
-Hear Rate slope Tachycardia count,0.0
-Hear Rate slope Bradycardia count,0.0
-Hear Rate slope Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate slope Breathing Rate slope,0.0
-Hear Rate slope Breathing Rate mean,0.0
-Hear Rate max Breathing Rate variability,0.0
-Hear Rate max Mean Blood Pressure max,0.0
-Hear Rate max Mean Blood Pressure variability,0.0
-Hear Rate max Mean Blood Pressure mean,0.0
-Hear Rate max Diastolic Bood Pressure kurtosis,0.0
-Hear Rate max Diastolic Bood Pressure skewness,0.0
-Hear Rate max Diastolic Bood Pressure slope,0.0
-Hear Rate max Diastolic Bood Pressure max,0.0
-Hear Rate max Diastolic Bood Pressure min,0.0
-Hear Rate max Diastolic Bood Pressure variability,0.0
-Hear Rate max Diastolic Bood Pressure mean,0.0
-Hear Rate max Systolic Blood Pressure kurtosis,0.0
-Hear Rate max Systolic Blood Pressure skewness,0.0
-Hear Rate max Systolic Blood Pressure slope,0.0
-Hear Rate max Systolic Blood Pressure max,0.0
-Hear Rate max Systolic Blood Pressure min,0.0
-Hear Rate max Systolic Blood Pressure variability,0.0
-Hear Rate max Systolic Blood Pressure mean,0.0
-Hear Rate max Breathing Rate kurtosis,0.0
-Hear Rate max Breathing Rate skewness,0.0
-Hear Rate max Breathing Rate slope,0.0
-Hear Rate max Breathing Rate max,0.0
-Hear Rate max Breathing Rate min,0.0
-Hear Rate max Mean Blood Pressure min,0.0
-Hear Rate max Mean Blood Pressure slope,0.0
-Hear Rate slope Oxygen Saturation kurtosis,0.0
-Hear Rate max Mean Blood Pressure skewness,0.0
-Hear Rate slope Oxygen Saturation skewness,0.0
-Hear Rate slope Oxygen Saturation slope,0.0
-Hear Rate slope Oxygen Saturation max,0.0
-Hear Rate slope Oxygen Saturation min,0.0
-Hear Rate slope Oxygen Saturation variability,0.0
-Hear Rate slope Oxygen Saturation mean,0.0
-Hear Rate slope Hear Rate kurtosis,0.0
-Hear Rate slope Hear Rate skewness,0.0
-Hear Rate max Ventilation status,0.0
-Hear Rate max Hypothermia status,0.0
-Hear Rate max Oxygen Saturation drops,0.0
-Hear Rate max Tachycardia count,0.0
-Hear Rate max Bradycardia count,0.0
-Hear Rate mean,0.0
-Hear Rate max Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate max Pulse Pressure kurtosis,0.0
-Hear Rate max Pulse Pressure slope,0.0
-Hear Rate max Pulse Pressure max,0.0
-Hear Rate max Pulse Pressure min,0.0
-Hear Rate max Pulse Pressure variability,0.0
-Hear Rate max Mean Blood Pressure kurtosis,0.0
-Hear Rate variability Hear Rate skewness,0.0
-Hear Rate variability Hear Rate max,0.0
-Hear Rate variability Hear Rate min,0.0
+Heart Rate slope Pulse Pressure min,0.0
+Heart Rate min Systolic Blood Pressure max,0.0
+Heart Rate min Diastolic Bood Pressure kurtosis,0.0
+Heart Rate min Diastolic Bood Pressure skewness,0.0
+Heart Rate min Diastolic Bood Pressure slope,0.0
+Heart Rate min Diastolic Bood Pressure max,0.0
+Heart Rate min Diastolic Bood Pressure min,0.0
+Heart Rate min Diastolic Bood Pressure variability,0.0
+Heart Rate min Diastolic Bood Pressure mean,0.0
+Heart Rate min Systolic Blood Pressure kurtosis,0.0
+Heart Rate min Systolic Blood Pressure skewness,0.0
+Heart Rate min Systolic Blood Pressure slope,0.0
+Heart Rate min Systolic Blood Pressure min,0.0
+Heart Rate skewness Systolic Blood Pressure kurtosis,0.0
+Heart Rate min Systolic Blood Pressure mean,0.0
+Heart Rate min Breathing Rate kurtosis,0.0
+Heart Rate min Breathing Rate skewness,0.0
+Heart Rate min Breathing Rate slope,0.0
+Heart Rate min Breathing Rate max,0.0
+Heart Rate min Breathing Rate min,0.0
+Heart Rate min Breathing Rate variability,0.0
+Heart Rate min Breathing Rate mean,0.0
+Heart Rate min Oxygen Saturation kurtosis,0.0
+Heart Rate min Oxygen Saturation slope,0.0
+Heart Rate min Mean Blood Pressure mean,0.0
+Heart Rate min Mean Blood Pressure variability,0.0
+Heart Rate min Mean Blood Pressure min,0.0
+Heart Rate min Mean Blood Pressure slope,0.0
+Heart Rate max Oxygen Saturation slope,0.0
+Heart Rate max Oxygen Saturation max,0.0
+Heart Rate max Oxygen Saturation min,0.0
+Heart Rate max Oxygen Saturation variability,0.0
+Heart Rate max Oxygen Saturation mean,0.0
+Heart Rate max Heart Rate kurtosis,0.0
+Heart Rate max Heart Rate skewness,0.0
+Heart Rate max Heart Rate slope,0.0
+Heart Rate min Ventilation status,0.0
+Heart Rate min Oxygen Saturation drops,0.0
+Heart Rate min Tachycardia count,0.0
+Heart Rate min Bradycardia count,0.0
+Heart Rate min Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate min Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate min Pulse Pressure kurtosis,0.0
+Heart Rate min Pulse Pressure skewness,0.0
+Heart Rate min Pulse Pressure slope,0.0
+Heart Rate min Pulse Pressure min,0.0
+Heart Rate min Pulse Pressure mean,0.0
+Heart Rate min Mean Blood Pressure kurtosis,0.0
+Heart Rate min Mean Blood Pressure skewness,0.0
+Heart Rate min Oxygen Saturation max,0.0
+Heart Rate min Oxygen Saturation variability,0.0
+Heart Rate min Oxygen Saturation mean,0.0
+Heart Rate variability Diastolic Bood Pressure max,0.0
+Heart Rate variability Diastolic Bood Pressure mean,0.0
+Heart Rate variability Systolic Blood Pressure kurtosis,0.0
+Heart Rate variability Systolic Blood Pressure skewness,0.0
+Heart Rate variability Systolic Blood Pressure slope,0.0
+Heart Rate variability Systolic Blood Pressure max,0.0
+Heart Rate variability Systolic Blood Pressure min,0.0
+Heart Rate variability Systolic Blood Pressure variability,0.0
+Heart Rate variability Systolic Blood Pressure mean,0.0
+Heart Rate variability Breathing Rate skewness,0.0
+Heart Rate variability Breathing Rate slope,0.0
+Heart Rate variability Breathing Rate max,0.0
+Heart Rate variability Breathing Rate min,0.0
+Heart Rate variability Breathing Rate variability,0.0
+Heart Rate variability Breathing Rate mean,0.0
+Heart Rate variability Oxygen Saturation kurtosis,0.0
+Heart Rate variability Oxygen Saturation skewness,0.0
+Heart Rate variability Oxygen Saturation slope,0.0
+Heart Rate variability Oxygen Saturation max,0.0
+Heart Rate variability Oxygen Saturation min,0.0
+Heart Rate variability Oxygen Saturation mean,0.0
+Heart Rate variability Heart Rate kurtosis,0.0
+Heart Rate variability Diastolic Bood Pressure min,0.0
+Heart Rate variability Diastolic Bood Pressure skewness,0.0
+Heart Rate min Heart Rate kurtosis,0.0
+Heart Rate variability Diastolic Bood Pressure kurtosis,0.0
+Heart Rate min Heart Rate skewness,0.0
+Heart Rate min Heart Rate slope,0.0
+Heart Rate min Heart Rate max,0.0
+Heart Rate variability Hypothermia status,0.0
+Heart Rate variability Oxygen Saturation drops,0.0
+Heart Rate variability Tachycardia count,0.0
+Heart Rate variability Bradycardia count,0.0
+Heart Rate variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate variability Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate variability Pulse Pressure kurtosis,0.0
+Heart Rate variability Pulse Pressure skewness,0.0
+Heart Rate variability Pulse Pressure slope,0.0
+Heart Rate variability Pulse Pressure max,0.0
+Heart Rate variability Pulse Pressure min,0.0
+Heart Rate variability Pulse Pressure variability,0.0
+Heart Rate variability Pulse Pressure mean,0.0
+Heart Rate variability Mean Blood Pressure kurtosis,0.0
+Heart Rate variability Mean Blood Pressure skewness,0.0
+Heart Rate variability Mean Blood Pressure slope,0.0
+Heart Rate variability Mean Blood Pressure min,0.0
+Heart Rate variability Mean Blood Pressure mean,0.0
+Heart Rate max Oxygen Saturation skewness,0.0
+Heart Rate max Oxygen Saturation kurtosis,0.0
+Heart Rate max Breathing Rate mean,0.0
+Heart Rate slope Pulse Pressure skewness,0.0
+Heart Rate slope Pulse Pressure variability,0.0
+Heart Rate slope Mean Blood Pressure kurtosis,0.0
+Heart Rate slope Mean Blood Pressure skewness,0.0
+Heart Rate slope Mean Blood Pressure slope,0.0
+Heart Rate slope Mean Blood Pressure min,0.0
+Heart Rate slope Mean Blood Pressure variability,0.0
+Heart Rate slope Mean Blood Pressure mean,0.0
+Heart Rate slope Diastolic Bood Pressure kurtosis,0.0
+Heart Rate slope Diastolic Bood Pressure skewness,0.0
+Heart Rate slope Diastolic Bood Pressure slope,0.0
+Heart Rate slope Diastolic Bood Pressure max,0.0
+Heart Rate slope Diastolic Bood Pressure min,0.0
+Heart Rate slope Diastolic Bood Pressure variability,0.0
+Heart Rate slope Diastolic Bood Pressure mean,0.0
+Heart Rate slope Systolic Blood Pressure kurtosis,0.0
+Heart Rate slope Systolic Blood Pressure skewness,0.0
+Heart Rate slope Systolic Blood Pressure slope,0.0
+Heart Rate slope Systolic Blood Pressure max,0.0
+Heart Rate slope Systolic Blood Pressure variability,0.0
+Heart Rate slope Systolic Blood Pressure mean,0.0
+Heart Rate slope Breathing Rate skewness,0.0
+Heart Rate slope Pulse Pressure max,0.0
+Heart Rate slope,0.0
+Heart Rate slope Breathing Rate max,0.0
+Heart Rate slope Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate skewness Systolic Blood Pressure slope,0.0
+Heart Rate skewness Systolic Blood Pressure max,0.0
+Heart Rate skewness Systolic Blood Pressure min,0.0
+Heart Rate skewness Systolic Blood Pressure mean,0.0
+Heart Rate skewness Breathing Rate kurtosis,0.0
+Heart Rate skewness Breathing Rate skewness,0.0
+Heart Rate skewness Breathing Rate slope,0.0
+Heart Rate skewness Breathing Rate max,0.0
+Heart Rate skewness Breathing Rate variability,0.0
+Heart Rate skewness Breathing Rate mean,0.0
+Heart Rate skewness Oxygen Saturation kurtosis,0.0
+Heart Rate skewness Oxygen Saturation slope,0.0
+Heart Rate skewness Oxygen Saturation max,0.0
+Heart Rate skewness Oxygen Saturation min,0.0
+Heart Rate skewness Oxygen Saturation variability,0.0
+Heart Rate slope Ventilation status,0.0
+Heart Rate slope Hypothermia status,0.0
+Heart Rate slope Oxygen Saturation drops,0.0
+Heart Rate slope Tachycardia count,0.0
+Heart Rate slope Bradycardia count,0.0
+Heart Rate slope Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate slope Breathing Rate slope,0.0
+Heart Rate slope Breathing Rate mean,0.0
+Heart Rate max Breathing Rate variability,0.0
+Heart Rate max Mean Blood Pressure max,0.0
+Heart Rate max Mean Blood Pressure variability,0.0
+Heart Rate max Mean Blood Pressure mean,0.0
+Heart Rate max Diastolic Bood Pressure kurtosis,0.0
+Heart Rate max Diastolic Bood Pressure skewness,0.0
+Heart Rate max Diastolic Bood Pressure slope,0.0
+Heart Rate max Diastolic Bood Pressure max,0.0
+Heart Rate max Diastolic Bood Pressure min,0.0
+Heart Rate max Diastolic Bood Pressure variability,0.0
+Heart Rate max Diastolic Bood Pressure mean,0.0
+Heart Rate max Systolic Blood Pressure kurtosis,0.0
+Heart Rate max Systolic Blood Pressure skewness,0.0
+Heart Rate max Systolic Blood Pressure slope,0.0
+Heart Rate max Systolic Blood Pressure max,0.0
+Heart Rate max Systolic Blood Pressure min,0.0
+Heart Rate max Systolic Blood Pressure variability,0.0
+Heart Rate max Systolic Blood Pressure mean,0.0
+Heart Rate max Breathing Rate kurtosis,0.0
+Heart Rate max Breathing Rate skewness,0.0
+Heart Rate max Breathing Rate slope,0.0
+Heart Rate max Breathing Rate max,0.0
+Heart Rate max Breathing Rate min,0.0
+Heart Rate max Mean Blood Pressure min,0.0
+Heart Rate max Mean Blood Pressure slope,0.0
+Heart Rate slope Oxygen Saturation kurtosis,0.0
+Heart Rate max Mean Blood Pressure skewness,0.0
+Heart Rate slope Oxygen Saturation skewness,0.0
+Heart Rate slope Oxygen Saturation slope,0.0
+Heart Rate slope Oxygen Saturation max,0.0
+Heart Rate slope Oxygen Saturation min,0.0
+Heart Rate slope Oxygen Saturation variability,0.0
+Heart Rate slope Oxygen Saturation mean,0.0
+Heart Rate slope Heart Rate kurtosis,0.0
+Heart Rate slope Heart Rate skewness,0.0
+Heart Rate max Ventilation status,0.0
+Heart Rate max Hypothermia status,0.0
+Heart Rate max Oxygen Saturation drops,0.0
+Heart Rate max Tachycardia count,0.0
+Heart Rate max Bradycardia count,0.0
+Heart Rate mean,0.0
+Heart Rate max Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate max Pulse Pressure kurtosis,0.0
+Heart Rate max Pulse Pressure slope,0.0
+Heart Rate max Pulse Pressure max,0.0
+Heart Rate max Pulse Pressure min,0.0
+Heart Rate max Pulse Pressure variability,0.0
+Heart Rate max Mean Blood Pressure kurtosis,0.0
+Heart Rate variability Heart Rate skewness,0.0
+Heart Rate variability Heart Rate max,0.0
+Heart Rate variability Heart Rate min,0.0
 Gestational age Diastolic Bood Pressure skewness,0.0
 Gestational age Diastolic Bood Pressure max,0.0
 Gestational age Diastolic Bood Pressure min,0.0
@@ -1072,18 +1072,18 @@ Gestational age Oxygen Saturation slope,0.0
 Gestational age Oxygen Saturation max,0.0
 Gestational age Oxygen Saturation min,0.0
 Gestational age Oxygen Saturation variability,0.0
-Gestational age Hear Rate skewness,0.0
-Gestational age Hear Rate slope,0.0
-Gestational age Hear Rate max,0.0
+Gestational age Heart Rate skewness,0.0
+Gestational age Heart Rate slope,0.0
+Gestational age Heart Rate max,0.0
 Gestational age Diastolic Bood Pressure slope,0.0
 Gestational age Diastolic Bood Pressure kurtosis,0.0
-Gestational age Hear Rate variability,0.0
+Gestational age Heart Rate variability,0.0
 Gestational age Mean Blood Pressure mean,0.0
-First window timestamp Hear Rate slope,0.0
-First window timestamp Hear Rate max,0.0
-First window timestamp Hear Rate min,0.0
-First window timestamp Hear Rate variability,0.0
-First window timestamp Hear Rate mean,0.0
+First window timestamp Heart Rate slope,0.0
+First window timestamp Heart Rate max,0.0
+First window timestamp Heart Rate min,0.0
+First window timestamp Heart Rate variability,0.0
+First window timestamp Heart Rate mean,0.0
 Gestational age Ventilation status,0.0
 Gestational age Oxygen Saturation drops,0.0
 Gestational age Tachycardia count,0.0
@@ -1100,9 +1100,9 @@ Gestational age Mean Blood Pressure skewness,0.0
 Gestational age Mean Blood Pressure slope,0.0
 Gestational age Mean Blood Pressure min,0.0
 Gestational age Mean Blood Pressure variability,0.0
-Gestational age Hear Rate min,0.0
-Gestational age Hear Rate mean,0.0
-First window timestamp Hear Rate kurtosis,0.0
+Gestational age Heart Rate min,0.0
+Gestational age Heart Rate mean,0.0
+First window timestamp Heart Rate kurtosis,0.0
 Diastolic Bood Pressure min,0.0
 Systolic Blood Pressure kurtosis,0.0
 Systolic Blood Pressure skewness,0.0
@@ -1124,7 +1124,7 @@ Oxygen Saturation max,0.0
 Oxygen Saturation min,0.0
 Oxygen Saturation variability,0.0
 Oxygen Saturation mean,0.0
-Hear Rate kurtosis,0.0
+Heart Rate kurtosis,0.0
 Diastolic Bood Pressure variability,0.0
 Diastolic Bood Pressure max,0.0
 Ventilation status,0.0
@@ -1140,7 +1140,7 @@ Pulse Pressure skewness,0.0
 Pulse Pressure max,0.0
 Pulse Pressure min,0.0
 Pulse Pressure variability,0.0
-Hear Rate variability,0.0
+Heart Rate variability,0.0
 Mean Blood Pressure kurtosis,0.0
 Mean Blood Pressure skewness,0.0
 Mean Blood Pressure slope,0.0
@@ -1150,58 +1150,58 @@ Mean Blood Pressure variability,0.0
 Mean Blood Pressure mean,0.0
 Diastolic Bood Pressure kurtosis,0.0
 Diastolic Bood Pressure skewness,0.0
-First window timestamp Hear Rate skewness,0.0
+First window timestamp Heart Rate skewness,0.0
 First window timestamp Oxygen Saturation mean,0.0
-Hear Rate mean Ventilation status,0.0
-Hear Rate mean Diastolic Bood Pressure max,0.0
-Hear Rate mean Diastolic Bood Pressure variability,0.0
-Hear Rate mean Diastolic Bood Pressure mean,0.0
-Hear Rate mean Systolic Blood Pressure kurtosis,0.0
-Hear Rate mean Systolic Blood Pressure skewness,0.0
-Hear Rate mean Systolic Blood Pressure slope,0.0
-Hear Rate mean Systolic Blood Pressure max,0.0
-Hear Rate mean Systolic Blood Pressure min,0.0
-Hear Rate mean Systolic Blood Pressure variability,0.0
-Hear Rate mean Systolic Blood Pressure mean,0.0
-Hear Rate mean Breathing Rate kurtosis,0.0
-Hear Rate mean Breathing Rate skewness,0.0
-Hear Rate mean Breathing Rate slope,0.0
-Hear Rate mean Breathing Rate max,0.0
-Hear Rate mean Breathing Rate min,0.0
-Hear Rate mean Breathing Rate variability,0.0
-Hear Rate mean Breathing Rate mean,0.0
-Hear Rate mean Oxygen Saturation kurtosis,0.0
-Hear Rate mean Oxygen Saturation skewness,0.0
-Hear Rate mean Oxygen Saturation slope,0.0
-Hear Rate mean Oxygen Saturation max,0.0
-Hear Rate mean Oxygen Saturation min,0.0
-Hear Rate mean Diastolic Bood Pressure min,0.0
-Hear Rate mean Diastolic Bood Pressure slope,0.0
-Hear Rate mean Oxygen Saturation mean,0.0
-Hear Rate mean Diastolic Bood Pressure skewness,0.0
-Hear Rate mean Hypothermia status,0.0
-Hear Rate mean Oxygen Saturation drops,0.0
-Hear Rate mean Tachycardia count,0.0
-Hear Rate mean Bradycardia count,0.0
-Hear Rate mean Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate mean Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate mean Pulse Pressure kurtosis,0.0
-Hear Rate mean Pulse Pressure skewness,0.0
-Hear Rate mean Pulse Pressure slope,0.0
-Hear Rate mean Pulse Pressure max,0.0
-Hear Rate mean Pulse Pressure min,0.0
-Hear Rate mean Pulse Pressure variability,0.0
-Hear Rate mean Pulse Pressure mean,0.0
-Hear Rate mean Mean Blood Pressure kurtosis,0.0
-Hear Rate mean Mean Blood Pressure skewness,0.0
-Hear Rate mean Mean Blood Pressure slope,0.0
-Hear Rate mean Mean Blood Pressure max,0.0
-Hear Rate mean Mean Blood Pressure min,0.0
-Hear Rate mean Mean Blood Pressure variability,0.0
-Hear Rate mean Mean Blood Pressure mean,0.0
-Hear Rate mean Diastolic Bood Pressure kurtosis,0.0
-Hear Rate mean Oxygen Saturation variability,0.0
-Hear Rate mean Hear Rate kurtosis,0.0
+Heart Rate mean Ventilation status,0.0
+Heart Rate mean Diastolic Bood Pressure max,0.0
+Heart Rate mean Diastolic Bood Pressure variability,0.0
+Heart Rate mean Diastolic Bood Pressure mean,0.0
+Heart Rate mean Systolic Blood Pressure kurtosis,0.0
+Heart Rate mean Systolic Blood Pressure skewness,0.0
+Heart Rate mean Systolic Blood Pressure slope,0.0
+Heart Rate mean Systolic Blood Pressure max,0.0
+Heart Rate mean Systolic Blood Pressure min,0.0
+Heart Rate mean Systolic Blood Pressure variability,0.0
+Heart Rate mean Systolic Blood Pressure mean,0.0
+Heart Rate mean Breathing Rate kurtosis,0.0
+Heart Rate mean Breathing Rate skewness,0.0
+Heart Rate mean Breathing Rate slope,0.0
+Heart Rate mean Breathing Rate max,0.0
+Heart Rate mean Breathing Rate min,0.0
+Heart Rate mean Breathing Rate variability,0.0
+Heart Rate mean Breathing Rate mean,0.0
+Heart Rate mean Oxygen Saturation kurtosis,0.0
+Heart Rate mean Oxygen Saturation skewness,0.0
+Heart Rate mean Oxygen Saturation slope,0.0
+Heart Rate mean Oxygen Saturation max,0.0
+Heart Rate mean Oxygen Saturation min,0.0
+Heart Rate mean Diastolic Bood Pressure min,0.0
+Heart Rate mean Diastolic Bood Pressure slope,0.0
+Heart Rate mean Oxygen Saturation mean,0.0
+Heart Rate mean Diastolic Bood Pressure skewness,0.0
+Heart Rate mean Hypothermia status,0.0
+Heart Rate mean Oxygen Saturation drops,0.0
+Heart Rate mean Tachycardia count,0.0
+Heart Rate mean Bradycardia count,0.0
+Heart Rate mean Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate mean Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate mean Pulse Pressure kurtosis,0.0
+Heart Rate mean Pulse Pressure skewness,0.0
+Heart Rate mean Pulse Pressure slope,0.0
+Heart Rate mean Pulse Pressure max,0.0
+Heart Rate mean Pulse Pressure min,0.0
+Heart Rate mean Pulse Pressure variability,0.0
+Heart Rate mean Pulse Pressure mean,0.0
+Heart Rate mean Mean Blood Pressure kurtosis,0.0
+Heart Rate mean Mean Blood Pressure skewness,0.0
+Heart Rate mean Mean Blood Pressure slope,0.0
+Heart Rate mean Mean Blood Pressure max,0.0
+Heart Rate mean Mean Blood Pressure min,0.0
+Heart Rate mean Mean Blood Pressure variability,0.0
+Heart Rate mean Mean Blood Pressure mean,0.0
+Heart Rate mean Diastolic Bood Pressure kurtosis,0.0
+Heart Rate mean Oxygen Saturation variability,0.0
+Heart Rate mean Heart Rate kurtosis,0.0
 First window timestamp Oxygen Saturation variability,0.0
 First window timestamp Diastolic Bood Pressure kurtosis,0.0
 First window timestamp Diastolic Bood Pressure slope,0.0
@@ -1227,12 +1227,12 @@ First window timestamp Oxygen Saturation max,0.0
 First window timestamp Oxygen Saturation min,0.0
 First window timestamp Diastolic Bood Pressure skewness,0.0
 First window timestamp Mean Blood Pressure mean,0.0
-Hear Rate mean Hear Rate skewness,0.0
+Heart Rate mean Heart Rate skewness,0.0
 First window timestamp Mean Blood Pressure variability,0.0
-Hear Rate mean Hear Rate slope,0.0
-Hear Rate mean Hear Rate max,0.0
-Hear Rate mean Hear Rate min,0.0
-Hear Rate mean Hear Rate variability,0.0
+Heart Rate mean Heart Rate slope,0.0
+Heart Rate mean Heart Rate max,0.0
+Heart Rate mean Heart Rate min,0.0
+Heart Rate mean Heart Rate variability,0.0
 First window timestamp Ventilation status,0.0
 First window timestamp Oxygen Saturation drops,0.0
 First window timestamp Tachycardia count,0.0
@@ -1250,9 +1250,9 @@ First window timestamp Mean Blood Pressure skewness,0.0
 First window timestamp Mean Blood Pressure slope,0.0
 First window timestamp Mean Blood Pressure max,0.0
 First window timestamp Mean Blood Pressure min,0.0
-Hear Rate skewness Systolic Blood Pressure skewness,0.0
-Hear Rate slope Pulse Pressure kurtosis,0.0
-Hear Rate skewness Diastolic Bood Pressure mean,0.0
+Heart Rate skewness Systolic Blood Pressure skewness,0.0
+Heart Rate slope Pulse Pressure kurtosis,0.0
+Heart Rate skewness Diastolic Bood Pressure mean,0.0
 Oxygen Saturation slope Oxygen Saturation skewness,0.0
 Oxygen Saturation max Hypothermia status,0.0
 Oxygen Saturation max Oxygen Saturation drops,0.0
@@ -1307,7 +1307,7 @@ Oxygen Saturation min Heart Rate - Oxygen sat. min. cross-correlation,0.0
 Oxygen Saturation min Pulse Pressure skewness,0.0
 Oxygen Saturation min Pulse Pressure slope,0.0
 Oxygen Saturation min Pulse Pressure max,0.0
-Hear Rate skewness Diastolic Bood Pressure variability,0.0
+Heart Rate skewness Diastolic Bood Pressure variability,0.0
 Oxygen Saturation min Mean Blood Pressure kurtosis,0.0
 Oxygen Saturation min Mean Blood Pressure skewness,0.0
 Oxygen Saturation min Mean Blood Pressure slope,0.0
@@ -1452,8 +1452,8 @@ Oxygen Saturation skewness Systolic Blood Pressure skewness,0.0
 Oxygen Saturation skewness Systolic Blood Pressure slope,0.0
 Oxygen Saturation min Systolic Blood Pressure variability,0.0
 Oxygen Saturation min Pulse Pressure variability,0.0
-Hear Rate skewness Diastolic Bood Pressure skewness,0.0
-Hear Rate skewness Diastolic Bood Pressure kurtosis,0.0
+Heart Rate skewness Diastolic Bood Pressure skewness,0.0
+Heart Rate skewness Diastolic Bood Pressure kurtosis,0.0
 Oxygen Saturation mean Breathing Rate min,0.0
 Oxygen Saturation mean Breathing Rate mean,0.0
 Oxygen Saturation mean Oxygen Saturation kurtosis,0.0
@@ -1461,19 +1461,19 @@ Oxygen Saturation mean Oxygen Saturation slope,0.0
 Oxygen Saturation mean Oxygen Saturation max,0.0
 Oxygen Saturation mean Oxygen Saturation min,0.0
 Oxygen Saturation mean Oxygen Saturation variability,0.0
-Hear Rate kurtosis Ventilation status,0.0
-Hear Rate kurtosis Hypothermia status,0.0
-Hear Rate kurtosis Oxygen Saturation drops,0.0
+Heart Rate kurtosis Ventilation status,0.0
+Heart Rate kurtosis Hypothermia status,0.0
+Heart Rate kurtosis Oxygen Saturation drops,0.0
 Oxygen Saturation mean Pulse Pressure variability,0.0
-Hear Rate kurtosis Tachycardia count,0.0
-Hear Rate kurtosis Bradycardia count,0.0
-Hear Rate kurtosis Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate kurtosis Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate kurtosis Pulse Pressure kurtosis,0.0
-Hear Rate kurtosis Pulse Pressure skewness,0.0
-Hear Rate kurtosis Pulse Pressure slope,0.0
-Hear Rate kurtosis Pulse Pressure max,0.0
-Hear Rate skewness Mean Blood Pressure variability,0.0
+Heart Rate kurtosis Tachycardia count,0.0
+Heart Rate kurtosis Bradycardia count,0.0
+Heart Rate kurtosis Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate kurtosis Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate kurtosis Pulse Pressure kurtosis,0.0
+Heart Rate kurtosis Pulse Pressure skewness,0.0
+Heart Rate kurtosis Pulse Pressure slope,0.0
+Heart Rate kurtosis Pulse Pressure max,0.0
+Heart Rate skewness Mean Blood Pressure variability,0.0
 Oxygen Saturation mean Breathing Rate max,0.0
 Oxygen Saturation mean Breathing Rate kurtosis,0.0
 Oxygen Saturation mean Systolic Blood Pressure mean,0.0
@@ -1491,60 +1491,60 @@ Oxygen Saturation mean Diastolic Bood Pressure max,0.0
 Oxygen Saturation mean Diastolic Bood Pressure min,0.0
 Oxygen Saturation mean Diastolic Bood Pressure variability,0.0
 Oxygen Saturation mean Diastolic Bood Pressure mean,0.0
-Hear Rate skewness Pulse Pressure mean,0.0
+Heart Rate skewness Pulse Pressure mean,0.0
 Oxygen Saturation mean Systolic Blood Pressure kurtosis,0.0
 Oxygen Saturation mean Systolic Blood Pressure skewness,0.0
 Oxygen Saturation mean Systolic Blood Pressure slope,0.0
 Oxygen Saturation mean Systolic Blood Pressure max,0.0
 Oxygen Saturation mean Systolic Blood Pressure min,0.0
-Hear Rate kurtosis Pulse Pressure min,0.0
-Hear Rate kurtosis Pulse Pressure variability,0.0
-Hear Rate kurtosis Pulse Pressure mean,0.0
-Hear Rate kurtosis Breathing Rate skewness,0.0
-Hear Rate kurtosis Breathing Rate max,0.0
-Hear Rate kurtosis Breathing Rate variability,0.0
-Hear Rate kurtosis Breathing Rate mean,0.0
-Hear Rate kurtosis Oxygen Saturation kurtosis,0.0
-Hear Rate kurtosis Oxygen Saturation skewness,0.0
-Hear Rate kurtosis Oxygen Saturation max,0.0
-Hear Rate kurtosis Oxygen Saturation min,0.0
-Hear Rate kurtosis Oxygen Saturation mean,0.0
-Hear Rate skewness Mean Blood Pressure skewness,0.0
-Hear Rate skewness Ventilation status,0.0
-Hear Rate skewness Oxygen Saturation drops,0.0
-Hear Rate skewness Tachycardia count,0.0
-Hear Rate skewness Bradycardia count,0.0
-Hear Rate skewness Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate skewness Heart Rate - Oxygen sat. min. cross-correlation,0.0
-Hear Rate skewness Pulse Pressure kurtosis,0.0
-Hear Rate skewness Pulse Pressure skewness,0.0
-Hear Rate skewness Pulse Pressure slope,0.0
-Hear Rate skewness Pulse Pressure max,0.0
-Hear Rate kurtosis Breathing Rate slope,0.0
-Hear Rate kurtosis Breathing Rate kurtosis,0.0
-Hear Rate kurtosis Mean Blood Pressure skewness,0.0
-Hear Rate kurtosis Systolic Blood Pressure mean,0.0
-Hear Rate kurtosis Mean Blood Pressure slope,0.0
-Hear Rate kurtosis Mean Blood Pressure min,0.0
-Hear Rate kurtosis Mean Blood Pressure variability,0.0
-Hear Rate kurtosis Mean Blood Pressure mean,0.0
-Hear Rate kurtosis Diastolic Bood Pressure kurtosis,0.0
-Hear Rate skewness Mean Blood Pressure min,0.0
-Hear Rate kurtosis Diastolic Bood Pressure skewness,0.0
-Hear Rate kurtosis Diastolic Bood Pressure slope,0.0
-Hear Rate kurtosis Diastolic Bood Pressure max,0.0
-Hear Rate skewness Mean Blood Pressure max,0.0
-Hear Rate kurtosis Diastolic Bood Pressure variability,0.0
-Hear Rate kurtosis Diastolic Bood Pressure mean,0.0
-Hear Rate kurtosis Systolic Blood Pressure kurtosis,0.0
-Hear Rate skewness Mean Blood Pressure slope,0.0
-Hear Rate kurtosis Systolic Blood Pressure skewness,0.0
-Hear Rate kurtosis Systolic Blood Pressure slope,0.0
-Hear Rate kurtosis Systolic Blood Pressure max,0.0
-Hear Rate kurtosis Systolic Blood Pressure min,0.0
-Hear Rate kurtosis Systolic Blood Pressure variability,0.0
+Heart Rate kurtosis Pulse Pressure min,0.0
+Heart Rate kurtosis Pulse Pressure variability,0.0
+Heart Rate kurtosis Pulse Pressure mean,0.0
+Heart Rate kurtosis Breathing Rate skewness,0.0
+Heart Rate kurtosis Breathing Rate max,0.0
+Heart Rate kurtosis Breathing Rate variability,0.0
+Heart Rate kurtosis Breathing Rate mean,0.0
+Heart Rate kurtosis Oxygen Saturation kurtosis,0.0
+Heart Rate kurtosis Oxygen Saturation skewness,0.0
+Heart Rate kurtosis Oxygen Saturation max,0.0
+Heart Rate kurtosis Oxygen Saturation min,0.0
+Heart Rate kurtosis Oxygen Saturation mean,0.0
+Heart Rate skewness Mean Blood Pressure skewness,0.0
+Heart Rate skewness Ventilation status,0.0
+Heart Rate skewness Oxygen Saturation drops,0.0
+Heart Rate skewness Tachycardia count,0.0
+Heart Rate skewness Bradycardia count,0.0
+Heart Rate skewness Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate skewness Heart Rate - Oxygen sat. min. cross-correlation,0.0
+Heart Rate skewness Pulse Pressure kurtosis,0.0
+Heart Rate skewness Pulse Pressure skewness,0.0
+Heart Rate skewness Pulse Pressure slope,0.0
+Heart Rate skewness Pulse Pressure max,0.0
+Heart Rate kurtosis Breathing Rate slope,0.0
+Heart Rate kurtosis Breathing Rate kurtosis,0.0
+Heart Rate kurtosis Mean Blood Pressure skewness,0.0
+Heart Rate kurtosis Systolic Blood Pressure mean,0.0
+Heart Rate kurtosis Mean Blood Pressure slope,0.0
+Heart Rate kurtosis Mean Blood Pressure min,0.0
+Heart Rate kurtosis Mean Blood Pressure variability,0.0
+Heart Rate kurtosis Mean Blood Pressure mean,0.0
+Heart Rate kurtosis Diastolic Bood Pressure kurtosis,0.0
+Heart Rate skewness Mean Blood Pressure min,0.0
+Heart Rate kurtosis Diastolic Bood Pressure skewness,0.0
+Heart Rate kurtosis Diastolic Bood Pressure slope,0.0
+Heart Rate kurtosis Diastolic Bood Pressure max,0.0
+Heart Rate skewness Mean Blood Pressure max,0.0
+Heart Rate kurtosis Diastolic Bood Pressure variability,0.0
+Heart Rate kurtosis Diastolic Bood Pressure mean,0.0
+Heart Rate kurtosis Systolic Blood Pressure kurtosis,0.0
+Heart Rate skewness Mean Blood Pressure slope,0.0
+Heart Rate kurtosis Systolic Blood Pressure skewness,0.0
+Heart Rate kurtosis Systolic Blood Pressure slope,0.0
+Heart Rate kurtosis Systolic Blood Pressure max,0.0
+Heart Rate kurtosis Systolic Blood Pressure min,0.0
+Heart Rate kurtosis Systolic Blood Pressure variability,0.0
 Oxygen Saturation mean Pulse Pressure mean,0.0
-Hear Rate skewness Pulse Pressure min,0.0
+Heart Rate skewness Pulse Pressure min,0.0
 Oxygen Saturation variability Diastolic Bood Pressure mean,0.0
 Oxygen Saturation variability Breathing Rate min,0.0
 Oxygen Saturation variability Pulse Pressure skewness,0.0
@@ -1577,7 +1577,7 @@ Oxygen Saturation min Breathing Rate mean,0.0
 Oxygen Saturation variability Mean Blood Pressure mean,0.0
 Oxygen Saturation variability Diastolic Bood Pressure kurtosis,0.0
 Oxygen Saturation variability Pulse Pressure kurtosis,0.0
-Hear Rate skewness Diastolic Bood Pressure slope,0.0
+Heart Rate skewness Diastolic Bood Pressure slope,0.0
 Oxygen Saturation variability Diastolic Bood Pressure max,0.0
 Oxygen Saturation min Breathing Rate kurtosis,0.0
 Oxygen Saturation mean Pulse Pressure max,0.0
@@ -1592,7 +1592,7 @@ Oxygen Saturation mean Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Oxygen Saturation min Oxygen Saturation slope,0.0
 Oxygen Saturation mean Bradycardia count,0.0
 Oxygen Saturation min Oxygen Saturation max,0.0
-Hear Rate skewness Diastolic Bood Pressure max,0.0
+Heart Rate skewness Diastolic Bood Pressure max,0.0
 Oxygen Saturation variability Ventilation status,0.0
 Oxygen Saturation variability Hypothermia status,0.0
 Oxygen Saturation variability Oxygen Saturation drops,0.0
@@ -1604,7 +1604,7 @@ Oxygen Saturation mean Hypothermia status,0.0
 Oxygen Saturation variability Heart Rate - Oxygen sat. min. cross-correlation,0.0
 Oxygen Saturation variability Oxygen Saturation max,0.0
 Oxygen Saturation variability Oxygen Saturation skewness,0.0
-Hear Rate skewness Diastolic Bood Pressure min,0.0
+Heart Rate skewness Diastolic Bood Pressure min,0.0
 Oxygen Saturation variability Oxygen Saturation kurtosis,0.0
 Oxygen Saturation variability Breathing Rate mean,0.0
 Oxygen Saturation variability Diastolic Bood Pressure skewness,0.0
@@ -1623,9 +1623,9 @@ Pulse Pressure skewness Pulse Pressure kurtosis,-0.012111056502145024
 Mean Blood Pressure slope Hypothermia status,-0.012717936364066321
 Breathing Rate variability Pulse Pressure max,-0.016086428990642093
 Breathing Rate skewness Breathing Rate kurtosis,-0.016907011131231872
-Hear Rate skewness Breathing Rate min,-0.016911758834361554
+Heart Rate skewness Breathing Rate min,-0.016911758834361554
 Oxygen Saturation variability Diastolic Bood Pressure min,-0.01802608504396117
-Hear Rate min Pulse Pressure max,-0.021347454963107276
+Heart Rate min Pulse Pressure max,-0.021347454963107276
 Oxygen Saturation variability Breathing Rate slope,-0.022997146527454077
 Breathing Rate variability Diastolic Bood Pressure mean,-0.023070738497221622
 Mean Blood Pressure kurtosis Pulse Pressure max,-0.023799948634108704
@@ -1634,7 +1634,7 @@ Diastolic Bood Pressure min Bradycardia count,-0.025867884314011807
 Oxygen Saturation variability Oxygen Saturation min,-0.026090243257463373
 Breathing Rate mean Oxygen Saturation drops,-0.026214250512768215
 Oxygen Saturation min Pulse Pressure min,-0.026896727060976115
-Hear Rate min Pulse Pressure variability,-0.02817670194028086
+Heart Rate min Pulse Pressure variability,-0.02817670194028086
 Diastolic Bood Pressure slope Hypothermia status,-0.028878457523684342
 Oxygen Saturation mean Breathing Rate skewness,-0.030812346263052393
 Systolic Blood Pressure variability Pulse Pressure slope,-0.03323592863997772
@@ -1642,48 +1642,48 @@ Systolic Blood Pressure min Diastolic Bood Pressure kurtosis,-0.0334008283475691
 Systolic Blood Pressure min Pulse Pressure mean,-0.03372558212066518
 Systolic Blood Pressure min Mean Blood Pressure min,-0.034569397417744493
 Diastolic Bood Pressure min Pulse Pressure max,-0.035141342802423495
-Hear Rate max Pulse Pressure skewness,-0.03859146131657921
+Heart Rate max Pulse Pressure skewness,-0.03859146131657921
 Breathing Rate min Mean Blood Pressure min,-0.038911001551866546
-Hear Rate slope Breathing Rate kurtosis,-0.039924631127898694
+Heart Rate slope Breathing Rate kurtosis,-0.039924631127898694
 Diastolic Bood Pressure skewness Mean Blood Pressure min,-0.04036933021818455
 Mean Blood Pressure min Mean Blood Pressure kurtosis,-0.04096710997549867
-Hear Rate slope Breathing Rate variability,-0.04244809165088711
-Gestational age Hear Rate kurtosis,-0.042513212186170254
+Heart Rate slope Breathing Rate variability,-0.04244809165088711
+Gestational age Heart Rate kurtosis,-0.042513212186170254
 Systolic Blood Pressure variability Systolic Blood Pressure slope,-0.043686609709989804
 Breathing Rate min Mean Blood Pressure slope,-0.04392500753889881
 Mean Blood Pressure slope Pulse Pressure skewness,-0.04467116986943372
-Hear Rate kurtosis Diastolic Bood Pressure min,-0.046200683020484905
+Heart Rate kurtosis Diastolic Bood Pressure min,-0.046200683020484905
 Oxygen Saturation min Systolic Blood Pressure slope,-0.047218474296818386
 Oxygen Saturation slope Diastolic Bood Pressure min,-0.047862771648031086
 Systolic Blood Pressure variability Diastolic Bood Pressure variability,-0.048370744564982616
 Oxygen Saturation mean Diastolic Bood Pressure slope,-0.0505875749494648
 Breathing Rate skewness Pulse Pressure slope,-0.05200787184092847
-Hear Rate min Systolic Blood Pressure variability,-0.05299799229683282
+Heart Rate min Systolic Blood Pressure variability,-0.05299799229683282
 Mean Blood Pressure variability Mean Blood Pressure max,-0.05378403569142418
-Hear Rate skewness Oxygen Saturation mean,-0.0589464305392452
-Hear Rate skewness Mean Blood Pressure mean,-0.0594823738009687
+Heart Rate skewness Oxygen Saturation mean,-0.0589464305392452
+Heart Rate skewness Mean Blood Pressure mean,-0.0594823738009687
 Breathing Rate max Systolic Blood Pressure slope,-0.06691417037427272
 Breathing Rate variability Breathing Rate slope,-0.06827831550176577
 Breathing Rate skewness Systolic Blood Pressure slope,-0.06989374428369755
 Oxygen Saturation min Pulse Pressure mean,-0.07094470951533625
-Hear Rate slope Systolic Blood Pressure min,-0.07189389697822034
+Heart Rate slope Systolic Blood Pressure min,-0.07189389697822034
 Diastolic Bood Pressure mean Pulse Pressure variability,-0.07249040200163931
-Hear Rate kurtosis Breathing Rate min,-0.07427890670980308
+Heart Rate kurtosis Breathing Rate min,-0.07427890670980308
 Breathing Rate skewness Heart Rate - Oxygen sat. min. cross-correlation,-0.0746574521769997
 Diastolic Bood Pressure variability Diastolic Bood Pressure max,-0.0759371911356134
 First window timestamp Pulse Pressure min,-0.0776942171214155
-Hear Rate min Mean Blood Pressure max,-0.07804938037444897
-Hear Rate slope Pulse Pressure mean,-0.08021113783814074
-Hear Rate min Oxygen Saturation skewness,-0.08222540260097508
-Hear Rate min Hypothermia status,-0.08682179588195625
+Heart Rate min Mean Blood Pressure max,-0.07804938037444897
+Heart Rate slope Pulse Pressure mean,-0.08021113783814074
+Heart Rate min Oxygen Saturation skewness,-0.08222540260097508
+Heart Rate min Hypothermia status,-0.08682179588195625
 Diastolic Bood Pressure min Pulse Pressure slope,-0.09469528650035083
-Hear Rate variability Ventilation status,-0.10141342460509777
-Hear Rate min Oxygen Saturation min,-0.10377423794160297
+Heart Rate variability Ventilation status,-0.10141342460509777
+Heart Rate min Oxygen Saturation min,-0.10377423794160297
 Gestational age Heart Rate - Oxygen sat. min. cross-correlation,-0.1046821163915019
 Breathing Rate skewness Mean Blood Pressure kurtosis,-0.11129315386423336
 Pulse Pressure min Pulse Pressure skewness,-0.11162116844228262
 Heart Rate - Oxygen sat. min. cross-correlation Bradycardia count,-0.11234332107890319
-Hear Rate skewness Hypothermia status,-0.11688311946733114
+Heart Rate skewness Hypothermia status,-0.11688311946733114
 First window timestamp Breathing Rate min,-0.12403041050446767
 Pulse Pressure slope Bradycardia count,-0.1289076570661517
 Gestational age Breathing Rate variability,-0.1530369322200764
@@ -1705,9 +1705,9 @@ Gestational age Breathing Rate mean,-0.2814210162976164
 Oxygen Saturation variability Breathing Rate variability,-0.2819030013625761
 Breathing Rate mean Breathing Rate variability,-0.2899510284858701
 Gestational age Pulse Pressure mean,-0.3378478032004971
-Hear Rate skewness,-0.39977314504013595
+Heart Rate skewness,-0.39977314504013595
 Breathing Rate mean Breathing Rate max,-0.4035093811566564
-Hear Rate max Heart Rate - Oxygen sat. max. cross-correlation,-0.5652741095158128
+Heart Rate max Heart Rate - Oxygen sat. max. cross-correlation,-0.5652741095158128
 Pulse Pressure mean,-0.8863223139956559
-Hear Rate max,-1.004309141820926
+Heart Rate max,-1.004309141820926
 Intercept,-1.9003397085436087

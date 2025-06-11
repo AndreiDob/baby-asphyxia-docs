@@ -1,37 +1,37 @@
 Feature,Coefficient
 APGAR 10-minute First window timestamp,0.5910204400504625
-Hear Rate min,0.3324116243692691
+Heart Rate min,0.3324116243692691
 Breathing Rate min Breathing Rate kurtosis,0.21106552673493367
 APGAR 10-minute Diastolic Bood Pressure mean,0.17944032073565525
 First window timestamp Breathing Rate skewness,0.11301766081759992
 Pulse Pressure mean Pulse Pressure variability,0.07197801564198104
-Hear Rate skewness Pulse Pressure variability,0.033668064812165874
-Hear Rate variability Pulse Pressure mean,0.0315226154738657
-Hear Rate skewness Pulse Pressure max,0.027799953598924527
-APGAR 10-minute Hear Rate skewness,0.013972460656994633
+Heart Rate skewness Pulse Pressure variability,0.033668064812165874
+Heart Rate variability Pulse Pressure mean,0.0315226154738657
+Heart Rate skewness Pulse Pressure max,0.027799953598924527
+APGAR 10-minute Heart Rate skewness,0.013972460656994633
 Breathing Rate min Pulse Pressure variability,0.0009854522257167356
 Breathing Rate min Pulse Pressure max,0.0007386450812338884
-Hear Rate kurtosis Breathing Rate skewness,0.0
-Hear Rate kurtosis Breathing Rate min,0.0
-Hear Rate kurtosis Breathing Rate variability,0.0
-Hear Rate skewness Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate skewness Pulse Pressure mean,0.0
-Hear Rate kurtosis Breathing Rate kurtosis,0.0
-Hear Rate min Diastolic Bood Pressure mean,0.0
-Hear Rate skewness Breathing Rate kurtosis,0.0
-Hear Rate kurtosis Pulse Pressure mean,0.0
-Hear Rate skewness Breathing Rate skewness,0.0
-Hear Rate skewness Breathing Rate min,0.0
-Hear Rate skewness Breathing Rate variability,0.0
-Hear Rate min Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate min Pulse Pressure max,0.0
-Hear Rate min Pulse Pressure variability,0.0
-Hear Rate min Pulse Pressure mean,0.0
+Heart Rate kurtosis Breathing Rate skewness,0.0
+Heart Rate kurtosis Breathing Rate min,0.0
+Heart Rate kurtosis Breathing Rate variability,0.0
+Heart Rate skewness Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate skewness Pulse Pressure mean,0.0
+Heart Rate kurtosis Breathing Rate kurtosis,0.0
+Heart Rate min Diastolic Bood Pressure mean,0.0
+Heart Rate skewness Breathing Rate kurtosis,0.0
+Heart Rate kurtosis Pulse Pressure mean,0.0
+Heart Rate skewness Breathing Rate skewness,0.0
+Heart Rate skewness Breathing Rate min,0.0
+Heart Rate skewness Breathing Rate variability,0.0
+Heart Rate min Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate min Pulse Pressure max,0.0
+Heart Rate min Pulse Pressure variability,0.0
+Heart Rate min Pulse Pressure mean,0.0
 First window timestamp,0.0
-Hear Rate min Breathing Rate kurtosis,0.0
-Hear Rate kurtosis Diastolic Bood Pressure mean,0.0
+Heart Rate min Breathing Rate kurtosis,0.0
+Heart Rate kurtosis Diastolic Bood Pressure mean,0.0
 Breathing Rate variability Breathing Rate skewness,0.0
-Hear Rate kurtosis Pulse Pressure variability,0.0
+Heart Rate kurtosis Pulse Pressure variability,0.0
 Breathing Rate min Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Breathing Rate kurtosis Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Breathing Rate kurtosis Pulse Pressure max,0.0
@@ -43,7 +43,7 @@ Diastolic Bood Pressure mean Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Breathing Rate skewness Pulse Pressure mean,0.0
 Breathing Rate skewness Diastolic Bood Pressure mean,0.0
 Breathing Rate min Pulse Pressure mean,0.0
-Hear Rate kurtosis Pulse Pressure max,0.0
+Heart Rate kurtosis Pulse Pressure max,0.0
 Breathing Rate min Diastolic Bood Pressure mean,0.0
 Breathing Rate min Breathing Rate skewness,0.0
 Breathing Rate variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
@@ -51,15 +51,15 @@ Breathing Rate variability Pulse Pressure max,0.0
 Breathing Rate variability Pulse Pressure mean,0.0
 Breathing Rate variability Diastolic Bood Pressure mean,0.0
 Breathing Rate variability Breathing Rate kurtosis,0.0
-Hear Rate min Hear Rate kurtosis,0.0
-Hear Rate kurtosis Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate min Breathing Rate skewness,0.0
-Hear Rate min Breathing Rate variability,0.0
+Heart Rate min Heart Rate kurtosis,0.0
+Heart Rate kurtosis Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate min Breathing Rate skewness,0.0
+Heart Rate min Breathing Rate variability,0.0
 Diastolic Bood Pressure mean Pulse Pressure variability,0.0
 APGAR 10-minute Breathing Rate kurtosis,0.0
-First window timestamp Hear Rate skewness,0.0
+First window timestamp Heart Rate skewness,0.0
 Pulse Pressure mean Heart Rate - Oxygen sat. max. cross-correlation,0.0
-First window timestamp Hear Rate variability,0.0
+First window timestamp Heart Rate variability,0.0
 APGAR 10-minute Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Breathing Rate skewness,0.0
 APGAR 10-minute Pulse Pressure max,0.0
@@ -70,28 +70,28 @@ Breathing Rate min,0.0
 Diastolic Bood Pressure mean,0.0
 Pulse Pressure variability Pulse Pressure max,0.0
 APGAR 10-minute Breathing Rate variability,0.0
-APGAR 10-minute Hear Rate kurtosis,0.0
-APGAR 10-minute Hear Rate min,0.0
-APGAR 10-minute Hear Rate variability,0.0
+APGAR 10-minute Heart Rate kurtosis,0.0
+APGAR 10-minute Heart Rate min,0.0
+APGAR 10-minute Heart Rate variability,0.0
 Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Pulse Pressure max,0.0
-First window timestamp Hear Rate kurtosis,0.0
+First window timestamp Heart Rate kurtosis,0.0
 Pulse Pressure mean Pulse Pressure max,0.0
-Hear Rate kurtosis,0.0
-Hear Rate variability Breathing Rate min,0.0
-Hear Rate min Hear Rate skewness,0.0
-Hear Rate variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
-Hear Rate variability Pulse Pressure max,0.0
-Hear Rate variability Pulse Pressure variability,0.0
-Hear Rate variability Diastolic Bood Pressure mean,0.0
-Hear Rate variability Breathing Rate kurtosis,0.0
-Hear Rate variability Breathing Rate skewness,0.0
+Heart Rate kurtosis,0.0
+Heart Rate variability Breathing Rate min,0.0
+Heart Rate min Heart Rate skewness,0.0
+Heart Rate variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
+Heart Rate variability Pulse Pressure max,0.0
+Heart Rate variability Pulse Pressure variability,0.0
+Heart Rate variability Diastolic Bood Pressure mean,0.0
+Heart Rate variability Breathing Rate kurtosis,0.0
+Heart Rate variability Breathing Rate skewness,0.0
 Pulse Pressure max Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Pulse Pressure variability Heart Rate - Oxygen sat. max. cross-correlation,0.0
 First window timestamp Breathing Rate kurtosis,0.0
-Hear Rate variability Hear Rate kurtosis,0.0
-Hear Rate variability Hear Rate skewness,0.0
-Hear Rate variability Hear Rate min,0.0
+Heart Rate variability Heart Rate kurtosis,0.0
+Heart Rate variability Heart Rate skewness,0.0
+Heart Rate variability Heart Rate min,0.0
 First window timestamp Heart Rate - Oxygen sat. max. cross-correlation,0.0
 Breathing Rate variability,0.0
 First window timestamp Pulse Pressure mean,0.0
@@ -99,24 +99,24 @@ Breathing Rate skewness Breathing Rate kurtosis,-0.008478609476173718
 First window timestamp Diastolic Bood Pressure mean,-0.010893418378836714
 First window timestamp Pulse Pressure variability,-0.019394015400558698
 Diastolic Bood Pressure mean Pulse Pressure max,-0.01953875450502121
-Hear Rate skewness Hear Rate kurtosis,-0.020886593699570105
+Heart Rate skewness Heart Rate kurtosis,-0.020886593699570105
 Breathing Rate variability Pulse Pressure variability,-0.034776654502338564
 APGAR 10-minute Breathing Rate skewness,-0.03892633647070218
 Pulse Pressure variability,-0.039942363473379185
-Hear Rate variability Breathing Rate variability,-0.047892602902141694
+Heart Rate variability Breathing Rate variability,-0.047892602902141694
 First window timestamp Pulse Pressure max,-0.06205151909522296
 Breathing Rate skewness Heart Rate - Oxygen sat. max. cross-correlation,-0.0761644919897395
-Hear Rate variability,-0.08395440729179073
+Heart Rate variability,-0.08395440729179073
 First window timestamp Breathing Rate variability,-0.09077047647525759
 Breathing Rate variability Breathing Rate min,-0.11075175915771285
-Hear Rate min Breathing Rate min,-0.12073248077253036
+Heart Rate min Breathing Rate min,-0.12073248077253036
 Diastolic Bood Pressure mean Pulse Pressure mean,-0.12153859662851461
 APGAR 10-minute,-0.1237923390014182
-Hear Rate skewness Diastolic Bood Pressure mean,-0.15311475438840524
-Hear Rate skewness,-0.18060185968806652
+Heart Rate skewness Diastolic Bood Pressure mean,-0.15311475438840524
+Heart Rate skewness,-0.18060185968806652
 Breathing Rate skewness Pulse Pressure variability,-0.21599078136516361
 First window timestamp Breathing Rate min,-0.23268693444691027
-First window timestamp Hear Rate min,-0.27178786250038844
+First window timestamp Heart Rate min,-0.27178786250038844
 APGAR 10-minute Breathing Rate min,-0.404990998130012
 Pulse Pressure mean,-0.49468969754482134
 Intercept,-2.3776543796643947

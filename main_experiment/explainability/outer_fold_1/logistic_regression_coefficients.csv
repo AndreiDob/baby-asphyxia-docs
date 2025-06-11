@@ -8,13 +8,13 @@ Systolic Blood Pressure kurtosis,-0.0007211281418068106
 Pulse Pressure variability,-0.0007413179733425123
 Breathing Rate skewness,-0.0009171565711170778
 First window timestamp,-0.0011179509959804892
-Hear Rate variability,-0.0011385436389462194
+Heart Rate variability,-0.0011385436389462194
 Breathing Rate min,-0.0013022166615230572
 Oxygen Saturation mean,-0.0014490374157522141
 Systolic Blood Pressure max,-0.0016109353100332486
-Hear Rate kurtosis,-0.0016183334866119198
+Heart Rate kurtosis,-0.0016183334866119198
 Oxygen Saturation min,-0.0017213837029077972
 Systolic Blood Pressure mean,-0.0019843652542503045
-Hear Rate skewness,-0.0020613579807297463
+Heart Rate skewness,-0.0020613579807297463
 Pulse Pressure mean,-0.0034168902885694653
 Intercept,-0.017161658994080575

@@ -7,13 +7,13 @@ Diastolic Bood Pressure kurtosis,-0.0004239438684349563
 Breathing Rate min,-0.0008167703807856816
 First window timestamp,-0.0015792385827652709
 Pulse Pressure variability,-0.0017183904357853466
-Hear Rate kurtosis,-0.0020886773623432263
-Hear Rate variability,-0.0024965219979398235
+Heart Rate kurtosis,-0.0020886773623432263
+Heart Rate variability,-0.0024965219979398235
 APGAR 10-minute,-0.0028820418268673442
 Mean Blood Pressure mean,-0.0030419290625456836
 Breathing Rate skewness,-0.0030952899408368596
 Pulse Pressure max,-0.004379974490441771
-Hear Rate skewness,-0.004411645673275048
+Heart Rate skewness,-0.004411645673275048
 Systolic Blood Pressure mean,-0.00459857603333916
 Pulse Pressure mean,-0.00631159097041308
 Intercept,-0.04033275970128507
