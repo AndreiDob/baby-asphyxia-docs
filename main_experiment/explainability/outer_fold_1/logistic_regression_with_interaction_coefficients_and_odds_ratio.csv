@@ -1,0 +1,173 @@
+Feature,Coefficient,Train set stdev,Odds ratio
+Breathing Rate min Breathing Rate skewness,0.3667827139447573,42.84277286450152,1.008597885181444
+Heart Rate skewness Pulse Pressure variability,0.18159327699738068,9.326871568032594,1.019660676826809
+First window timestamp Oxygen Saturation mean,0.13355800667520515,191449.85870598065,1.0000006976137468
+Oxygen Saturation min Systolic Blood Pressure max,0.12887774386356082,2123.257779420406,1.0000606999566939
+Heart Rate variability Heart Rate kurtosis,0.09519990067363415,213.48005337891732,1.0004460422844152
+Heart Rate kurtosis Systolic Blood Pressure mean,0.08087548294817583,126.80387332208277,1.0006380032210018
+Heart Rate skewness Breathing Rate min,0.0705169663010074,13.425886630982827,1.0052661311317632
+Oxygen Saturation variability,0.025829457402707326,4.0359384705710095,1.0064203869071007
+Heart Rate skewness Breathing Rate skewness,0.004753639456203672,1.2487607249468666,1.0038139402193842
+Oxygen Saturation min Pulse Pressure variability,0.0,736.0879326968123,1.0
+Oxygen Saturation min Systolic Blood Pressure kurtosis,0.0,1855.2949499267422,1.0
+Oxygen Saturation min Diastolic Bood Pressure slope,0.0,0.42258672962093347,1.0
+Oxygen Saturation min Pulse Pressure mean,0.0,414.9502374986942,1.0
+Oxygen Saturation slope Breathing Rate min,0.0,0.03925484342486937,1.0
+Oxygen Saturation slope Breathing Rate variability,0.0,0.16715801879745507,1.0
+Oxygen Saturation min Breathing Rate kurtosis,0.0,3791.155348928815,1.0
+Oxygen Saturation slope Breathing Rate skewness,0.0,0.006580318658766133,1.0
+Oxygen Saturation slope Breathing Rate kurtosis,0.0,0.2027036044127707,1.0
+Oxygen Saturation slope Systolic Blood Pressure mean,0.0,0.11974561288365572,1.0
+Oxygen Saturation slope Systolic Blood Pressure max,0.0,0.18521045788111662,1.0
+Oxygen Saturation slope Systolic Blood Pressure kurtosis,0.0,0.030807124527111665,1.0
+Oxygen Saturation slope Diastolic Bood Pressure slope,0.0,1.203019287086188e-05,1.0
+Oxygen Saturation min Systolic Blood Pressure mean,0.0,893.3359582927914,1.0
+First window timestamp,0.0,2009.3553311856901,1.0
+Oxygen Saturation min Breathing Rate skewness,0.0,144.0812511415901,1.0
+Oxygen Saturation slope Pulse Pressure variability,0.0,0.029887731039126123,1.0
+Oxygen Saturation mean Systolic Blood Pressure max,0.0,2360.65148760365,1.0
+Oxygen Saturation mean Systolic Blood Pressure kurtosis,0.0,2203.480804574763,1.0
+Oxygen Saturation mean Diastolic Bood Pressure slope,0.0,0.5345858562626647,1.0
+Oxygen Saturation mean Pulse Pressure mean,0.0,416.5047974120907,1.0
+Oxygen Saturation mean Pulse Pressure variability,0.0,960.6620934237324,1.0
+Oxygen Saturation variability Oxygen Saturation slope,0.0,0.018250934120315965,1.0
+Oxygen Saturation variability Breathing Rate min,0.0,81.60203080820986,1.0
+Oxygen Saturation variability Breathing Rate skewness,0.0,16.547687718699077,1.0
+Oxygen Saturation variability Breathing Rate kurtosis,0.0,474.91113567961014,1.0
+Oxygen Saturation variability Systolic Blood Pressure mean,0.0,250.17251981789502,1.0
+Oxygen Saturation variability Systolic Blood Pressure max,0.0,390.48085246708183,1.0
+Oxygen Saturation variability Systolic Blood Pressure kurtosis,0.0,113.85567241400143,1.0
+Oxygen Saturation variability Diastolic Bood Pressure slope,0.0,0.03970148943295456,1.0
+Oxygen Saturation variability Pulse Pressure mean,0.0,84.9411888788808,1.0
+Oxygen Saturation variability Pulse Pressure variability,0.0,100.35206304381327,1.0
+Oxygen Saturation min Oxygen Saturation slope,0.0,0.15162451901191976,1.0
+Oxygen Saturation min Breathing Rate variability,0.0,4273.615856725842,1.0
+Oxygen Saturation slope Pulse Pressure mean,0.0,0.03964897998769403,1.0
+Breathing Rate variability Systolic Blood Pressure mean,0.0,3509.3243527161026,1.0
+Breathing Rate variability Breathing Rate skewness,0.0,61.6454633306355,1.0
+Breathing Rate variability Breathing Rate kurtosis,0.0,112.37781607033163,1.0
+Breathing Rate kurtosis Systolic Blood Pressure kurtosis,0.0,281.1311543893169,1.0
+Breathing Rate kurtosis Diastolic Bood Pressure slope,0.0,0.3515111968965379,1.0
+Breathing Rate kurtosis Pulse Pressure mean,0.0,1037.1205619758412,1.0
+Breathing Rate kurtosis Pulse Pressure variability,0.0,247.4438532894995,1.0
+Systolic Blood Pressure mean Systolic Blood Pressure max,0.0,1790.3766591807084,1.0
+Systolic Blood Pressure mean Systolic Blood Pressure kurtosis,0.0,1249.3365231981938,1.0
+Systolic Blood Pressure mean Diastolic Bood Pressure slope,0.0,0.35118869512280454,1.0
+Systolic Blood Pressure mean Pulse Pressure mean,0.0,395.3833447193304,1.0
+Systolic Blood Pressure mean Pulse Pressure variability,0.0,681.1965240198339,1.0
+Systolic Blood Pressure max Diastolic Bood Pressure slope,0.0,0.5425803310111217,1.0
+Systolic Blood Pressure max Pulse Pressure mean,0.0,709.1477774849541,1.0
+Systolic Blood Pressure max Pulse Pressure variability,0.0,1146.3526516760094,1.0
+Systolic Blood Pressure kurtosis Diastolic Bood Pressure slope,0.0,0.04988726689032007,1.0
+Systolic Blood Pressure kurtosis Pulse Pressure mean,0.0,395.9078405492759,1.0
+Systolic Blood Pressure kurtosis Pulse Pressure variability,0.0,210.8308223912767,1.0
+Diastolic Bood Pressure slope Pulse Pressure mean,0.0,0.11664700917611001,1.0
+Pulse Pressure mean Pulse Pressure variability,0.0,242.31753289339372,1.0
+Breathing Rate kurtosis Systolic Blood Pressure max,0.0,3800.116601699641,1.0
+Breathing Rate kurtosis Systolic Blood Pressure mean,0.0,2823.648998259211,1.0
+Breathing Rate skewness Pulse Pressure variability,0.0,20.824815289688114,1.0
+Breathing Rate min Systolic Blood Pressure kurtosis,0.0,471.07923642827467,1.0
+Heart Rate variability,0.0,116.04481860364952,1.0
+Breathing Rate variability Systolic Blood Pressure max,0.0,5506.933428638899,1.0
+Breathing Rate variability Systolic Blood Pressure kurtosis,0.0,1010.7964033579073,1.0
+Breathing Rate variability Diastolic Bood Pressure slope,0.0,0.47522692884666473,1.0
+Breathing Rate variability Pulse Pressure mean,0.0,1219.6205304710336,1.0
+Breathing Rate variability Pulse Pressure variability,0.0,1044.268649218114,1.0
+Breathing Rate min Breathing Rate kurtosis,0.0,1173.434965852117,1.0
+Breathing Rate min Diastolic Bood Pressure slope,0.0,0.10073415012155891,1.0
+Breathing Rate skewness Pulse Pressure mean,0.0,38.39327812493793,1.0
+Breathing Rate min Pulse Pressure mean,0.0,167.28700093433176,1.0
+Breathing Rate min Pulse Pressure variability,0.0,201.76512493865184,1.0
+Breathing Rate skewness Breathing Rate kurtosis,0.0,1515.3402555862244,1.0
+Breathing Rate skewness Systolic Blood Pressure mean,0.0,107.76434773557952,1.0
+Breathing Rate skewness Systolic Blood Pressure max,0.0,152.93107144549052,1.0
+Breathing Rate skewness Systolic Blood Pressure kurtosis,0.0,41.958321432014664,1.0
+Breathing Rate skewness Diastolic Bood Pressure slope,0.0,0.012395750907854268,1.0
+Oxygen Saturation mean Systolic Blood Pressure mean,0.0,694.3392228597944,1.0
+Oxygen Saturation mean Breathing Rate kurtosis,0.0,4639.7567870409175,1.0
+Oxygen Saturation mean Breathing Rate skewness,0.0,176.89010533439907,1.0
+First window timestamp Breathing Rate skewness,0.0,6684.40186118667,1.0
+First window timestamp Systolic Blood Pressure mean,0.0,138199.664212261,1.0
+First window timestamp Systolic Blood Pressure max,0.0,210701.3755304246,1.0
+First window timestamp Systolic Blood Pressure kurtosis,0.0,64068.42943503904,1.0
+First window timestamp Diastolic Bood Pressure slope,0.0,20.157740482962335,1.0
+First window timestamp Pulse Pressure mean,0.0,49320.52264754862,1.0
+First window timestamp Pulse Pressure variability,0.0,36017.483873075915,1.0
+Heart Rate variability Heart Rate skewness,0.0,108.34856780225032,1.0
+Heart Rate variability Oxygen Saturation mean,0.0,11236.674339580311,1.0
+Heart Rate variability Oxygen Saturation variability,0.0,1174.739913903156,1.0
+Heart Rate variability Oxygen Saturation min,0.0,8982.186524166962,1.0
+Heart Rate variability Oxygen Saturation slope,0.0,0.42565996330244077,1.0
+Oxygen Saturation mean Breathing Rate min,0.0,716.5494806578412,1.0
+Heart Rate variability Breathing Rate skewness,0.0,188.2399788165784,1.0
+Heart Rate variability Breathing Rate kurtosis,0.0,3134.9286323628994,1.0
+Heart Rate variability Systolic Blood Pressure mean,0.0,7111.7115992592635,1.0
+First window timestamp Breathing Rate kurtosis,0.0,181110.36576020578,1.0
+First window timestamp Breathing Rate variability,0.0,289864.5207665014,1.0
+Heart Rate variability Systolic Blood Pressure kurtosis,0.0,1847.809488885943,1.0
+First window timestamp Oxygen Saturation slope,0.0,7.528158294991123,1.0
+Heart Rate kurtosis,0.0,2.144370171996904,1.0
+Oxygen Saturation mean,0.0,2.0776940774051083,1.0
+Oxygen Saturation slope,0.0,0.001990053815956713,1.0
+Breathing Rate variability,0.0,54.91929716210309,1.0
+Breathing Rate min,0.0,7.4063049767083795,1.0
+Breathing Rate kurtosis,0.0,50.62763761015201,1.0
+Systolic Blood Pressure mean,0.0,7.216416545464787,1.0
+Systolic Blood Pressure max,0.0,24.13053156789508,1.0
+Systolic Blood Pressure kurtosis,0.0,22.50402213932576,1.0
+Diastolic Bood Pressure slope,0.0,0.005520783744704553,1.0
+Pulse Pressure variability,0.0,9.898502076965057,1.0
+First window timestamp Heart Rate variability,0.0,523475.3995213913,1.0
+First window timestamp Heart Rate skewness,0.0,2370.060140257642,1.0
+First window timestamp Heart Rate kurtosis,0.0,5994.6012416333,1.0
+First window timestamp Oxygen Saturation min,0.0,161764.9136146918,1.0
+Heart Rate variability Systolic Blood Pressure max,0.0,11023.446592639148,1.0
+Heart Rate variability Breathing Rate min,0.0,2352.730607881436,1.0
+Heart Rate variability Diastolic Bood Pressure slope,0.0,1.2186227968347154,1.0
+Heart Rate kurtosis Oxygen Saturation mean,0.0,210.51985488683133,1.0
+Heart Rate kurtosis Oxygen Saturation min,0.0,173.3681365932024,1.0
+Heart Rate variability Pulse Pressure mean,0.0,2369.1448406376903,1.0
+Heart Rate kurtosis Breathing Rate variability,0.0,118.32271192020013,1.0
+Heart Rate kurtosis Breathing Rate min,0.0,36.818035462238875,1.0
+Heart Rate kurtosis Breathing Rate skewness,0.0,2.4534556059410044,1.0
+Heart Rate kurtosis Breathing Rate kurtosis,0.0,21.73348988435983,1.0
+Heart Rate kurtosis Systolic Blood Pressure max,0.0,204.09365691712986,1.0
+Heart Rate kurtosis Systolic Blood Pressure kurtosis,0.0,56.37263068727695,1.0
+Heart Rate kurtosis Diastolic Bood Pressure slope,0.0,0.008809763809893876,1.0
+Heart Rate kurtosis Pulse Pressure mean,0.0,41.97234558341113,1.0
+Heart Rate kurtosis Pulse Pressure variability,0.0,20.788120310835158,1.0
+Oxygen Saturation mean Oxygen Saturation variability,0.0,384.74281698886307,1.0
+Oxygen Saturation mean Oxygen Saturation min,0.0,1202.6648687358252,1.0
+Oxygen Saturation mean Oxygen Saturation slope,0.0,0.1916250111158904,1.0
+Oxygen Saturation mean Breathing Rate variability,0.0,5290.2290614060785,1.0
+Heart Rate kurtosis Oxygen Saturation variability,0.0,15.541095843519566,1.0
+Heart Rate kurtosis Oxygen Saturation slope,0.0,0.0036810546034797336,1.0
+Heart Rate skewness Oxygen Saturation min,0.0,57.49170312822127,1.0
+Heart Rate skewness Systolic Blood Pressure mean,0.0,41.81821061591702,1.0
+Heart Rate skewness Oxygen Saturation variability,0.0,4.318992215604721,1.0
+Heart Rate skewness Pulse Pressure mean,0.0,14.031964338046828,1.0
+Heart Rate skewness Oxygen Saturation slope,0.0,0.0014988419086525101,1.0
+Heart Rate variability Pulse Pressure variability,0.0,2631.7121318844,1.0
+Heart Rate skewness Breathing Rate kurtosis,0.0,24.50344204239516,1.0
+Heart Rate skewness Breathing Rate variability,0.0,57.36622427736705,1.0
+Heart Rate skewness Systolic Blood Pressure max,0.0,66.5422477186315,1.0
+Heart Rate skewness Systolic Blood Pressure kurtosis,0.0,18.228804041844274,1.0
+Heart Rate skewness Diastolic Bood Pressure slope,0.0,0.004202287257121812,1.0
+Heart Rate skewness Oxygen Saturation mean,0.0,69.33823445543729,1.0
+Heart Rate skewness Heart Rate kurtosis,-0.0036440777901688586,3.6493148529706794,0.9990019334811476
+Oxygen Saturation min,-0.010154931907600752,11.846949378975204,0.9991431903235662
+Breathing Rate min Systolic Blood Pressure mean,-0.0206223366524426,449.4794037489032,0.9999541205594601
+Breathing Rate variability Breathing Rate min,-0.025847975871335194,1007.5457623982824,0.9999743459351608
+Heart Rate variability Breathing Rate variability,-0.027315690248120167,18915.61095550614,0.9999985559192041
+Breathing Rate min Systolic Blood Pressure max,-0.02856117706080419,815.3291772515861,0.9999649703731804
+Oxygen Saturation variability Breathing Rate variability,-0.055852042719312725,524.2193040087191,0.9998934623981451
+Oxygen Saturation variability Oxygen Saturation min,-0.060469006782684194,251.3233262860331,0.999759426497476
+Breathing Rate skewness,-0.08192974162861077,1.894939795461321,0.9576852866648922
+Diastolic Bood Pressure slope Pulse Pressure variability,-0.08346140872740382,0.1398254598039905,0.5505171992015974
+Oxygen Saturation min Breathing Rate min,-0.09333437258228412,631.9761117821332,0.9998523243536175
+Heart Rate skewness,-0.10669194847417653,0.7091431301651822,0.860319089532457
+Systolic Blood Pressure max Systolic Blood Pressure kurtosis,-0.11935942989071846,3570.9350652623543,0.9999665752994883
+First window timestamp Oxygen Saturation variability,-0.1613463297176808,18299.893112574147,0.9999911832480415
+First window timestamp Breathing Rate min,-0.2403013177980093,45239.842349486025,0.9999946882953805
+Pulse Pressure mean,-0.5178055435755444,4.26686217335064,0.8857193727829129
+Intercept,-2.019428636106173,-,-
